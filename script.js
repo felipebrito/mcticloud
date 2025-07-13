@@ -246,12 +246,14 @@ function resetAllToOne() {
 
 // Função para salvar valores no Local Storage
 function saveWordValues() {
+  console.log('[PERSIST] Salvando valores:', INITIAL_WORDS.map(w => w[1]));
   localStorage.setItem('wordValues', JSON.stringify(INITIAL_WORDS.map(w => w[1])));
 }
 
 // Função para carregar valores do Local Storage
 function loadWordValues() {
   const saved = localStorage.getItem('wordValues');
+  console.log('[PERSIST] Carregando valores:', saved);
   if (saved) {
     const arr = JSON.parse(saved);
     if (Array.isArray(arr) && arr.length === INITIAL_WORDS.length) {
@@ -539,6 +541,10 @@ window.addEventListener('keydown', function(e) {
     resetAllToOne();
   }
 });
+
+window.addEventListener('touchmove', function(e) {
+  e.preventDefault();
+}, { passive: false });
 
 document.addEventListener('DOMContentLoaded', () => {
     renderWordCloud(INITIAL_WORDS);
