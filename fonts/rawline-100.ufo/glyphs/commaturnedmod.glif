@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="245"/>
+  <unicode hex="02BB"/>
+  <anchor x="111" y="1495" name="Anchor-13"/>
+  <outline>
+    <contour>
+      <point x="137" y="1495" type="line"/>
+      <point x="117" y="1376" type="line"/>
+      <point x="135" y="1376" type="line"/>
+      <point x="135" y="1255" type="line"/>
+      <point x="82" y="1255" type="line"/>
+      <point x="82" y="1376" type="line"/>
+      <point x="109" y="1495" type="line"/>
+    </contour>
+  </outline>
+</glyph>

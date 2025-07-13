@@ -1,0 +1,9 @@
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="rawline-100.ufo" name="Rawline-100" location="{'Weight': 100}"/>
+    <source filename="rawline-900.ufo" name="Rawline-900" location="{'Weight': 900}"/>
+  </sources>
+</designspace> 

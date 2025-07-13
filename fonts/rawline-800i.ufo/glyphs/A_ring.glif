@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="1312"/>
+  <unicode hex="00C5"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="934" y="1874" name="Anchor-9"/>
+  <anchor x="1184" y="0" name="Anchor-8"/>
+  <anchor x="543" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="936" y="1874" type="qcurve" smooth="yes"/>
+      <point x="1022" y="1874"/>
+      <point x="1116" y="1804"/>
+      <point x="1116" y="1739" type="qcurve" smooth="yes"/>
+      <point x="1116" y="1645"/>
+      <point x="978" y="1540"/>
+      <point x="864" y="1540" type="qcurve" smooth="yes"/>
+      <point x="778" y="1540"/>
+      <point x="682" y="1609"/>
+      <point x="682" y="1673" type="qcurve" smooth="yes"/>
+      <point x="682" y="1768"/>
+      <point x="823" y="1874"/>
+    </contour>
+    <contour>
+      <point x="821" y="1696" type="qcurve" smooth="yes"/>
+      <point x="821" y="1669"/>
+      <point x="856" y="1636"/>
+      <point x="885" y="1636" type="qcurve" smooth="yes"/>
+      <point x="922" y="1636"/>
+      <point x="981" y="1685"/>
+      <point x="981" y="1720" type="qcurve" smooth="yes"/>
+      <point x="981" y="1745"/>
+      <point x="944" y="1778"/>
+      <point x="915" y="1778" type="qcurve" smooth="yes"/>
+      <point x="876" y="1778"/>
+      <point x="821" y="1731"/>
+    </contour>
+    <contour>
+      <point x="690" y="1454" type="line"/>
+      <point x="995" y="1454" type="line"/>
+      <point x="1184" y="0" type="line"/>
+      <point x="840" y="0" type="line"/>
+      <point x="809" y="326" type="line"/>
+      <point x="395" y="326" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="-117" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="803" y="557" type="line"/>
+      <point x="762" y="1071" type="line"/>
+      <point x="496" y="557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ndotaccent" format="2">
+  <advance width="1193"/>
+  <unicode hex="1E45"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="606" y="1495" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="594" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="543" y="1296" type="line"/>
+      <point x="543" y="1495" type="line"/>
+      <point x="670" y="1495" type="line"/>
+      <point x="670" y="1296" type="line"/>
+    </contour>
+    <contour>
+      <point x="1051" y="0" type="line"/>
+      <point x="911" y="0" type="line"/>
+      <point x="911" y="596" type="line" smooth="yes"/>
+      <point x="911" y="784"/>
+      <point x="800" y="958"/>
+      <point x="682" y="958" type="qcurve" smooth="yes"/>
+      <point x="557" y="958"/>
+      <point x="331" y="783"/>
+      <point x="293" y="653" type="qcurve"/>
+      <point x="293" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="154" y="1067" type="line"/>
+      <point x="281" y="1067" type="line"/>
+      <point x="281" y="825" type="line"/>
+      <point x="346" y="943"/>
+      <point x="591" y="1085"/>
+      <point x="733" y="1085" type="qcurve" smooth="yes"/>
+      <point x="820" y="1085"/>
+      <point x="945" y="1022"/>
+      <point x="1018" y="898"/>
+      <point x="1051" y="734"/>
+      <point x="1051" y="625" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

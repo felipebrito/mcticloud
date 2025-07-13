@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow" format="2">
+  <advance width="1482"/>
+  <unicode hex="1EE4"/>
+  <anchor x="1546" y="1378" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="909" y="1450" name="Anchor-9"/>
+  <anchor x="700" y="0" name="Anchor-8"/>
+  <anchor x="549" y="-340" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="154" y="471" type="qcurve" smooth="yes"/>
+      <point x="154" y="587"/>
+      <point x="182" y="721" type="qcurve" smooth="yes"/>
+      <point x="338" y="1454" type="line"/>
+      <point x="479" y="1454" type="line"/>
+      <point x="324" y="721" type="line" smooth="yes"/>
+      <point x="297" y="589"/>
+      <point x="297" y="494" type="qcurve" smooth="yes"/>
+      <point x="297" y="412"/>
+      <point x="332" y="281"/>
+      <point x="408" y="176"/>
+      <point x="541" y="119"/>
+      <point x="633" y="119" type="qcurve" smooth="yes"/>
+      <point x="733" y="119"/>
+      <point x="905" y="188"/>
+      <point x="1027" y="303"/>
+      <point x="1125" y="462"/>
+      <point x="1185" y="628"/>
+      <point x="1204" y="721" type="qcurve" smooth="yes"/>
+      <point x="1360" y="1454" type="line"/>
+      <point x="1501" y="1454" type="line"/>
+      <point x="1348" y="721" type="line" smooth="yes"/>
+      <point x="1322" y="600"/>
+      <point x="1238" y="388"/>
+      <point x="1110" y="201"/>
+      <point x="949" y="67"/>
+      <point x="734" y="-10"/>
+      <point x="486" y="-10"/>
+      <point x="306" y="64"/>
+      <point x="202" y="199"/>
+      <point x="154" y="367"/>
+    </contour>
+    <contour>
+      <point x="485" y="-340" type="line"/>
+      <point x="526" y="-139" type="line"/>
+      <point x="653" y="-139" type="line"/>
+      <point x="612" y="-340" type="line"/>
+    </contour>
+  </outline>
+</glyph>

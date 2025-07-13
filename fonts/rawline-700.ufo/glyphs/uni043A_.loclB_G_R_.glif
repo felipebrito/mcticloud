@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A.loclBGR" format="2">
+  <advance width="1142"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="0" y="0" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="592" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="858" y="0" type="line"/>
+      <point x="545" y="463" type="line"/>
+      <point x="399" y="319" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1495" type="line"/>
+      <point x="399" y="1495" type="line"/>
+      <point x="399" y="590" type="line"/>
+      <point x="831" y="1071" type="line"/>
+      <point x="1122" y="1071" type="line"/>
+      <point x="723" y="616" type="line"/>
+      <point x="1151" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

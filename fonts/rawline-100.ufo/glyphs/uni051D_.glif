@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051D" format="2">
+  <advance width="1626"/>
+  <unicode hex="051D"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="813" y="1063" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="1530" y="1063" type="line"/>
+      <point x="1575" y="1063" type="line"/>
+      <point x="1110" y="0" type="line"/>
+      <point x="1073" y="0" type="line"/>
+      <point x="813" y="596" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="51" y="1063" type="line"/>
+      <point x="96" y="1063" type="line"/>
+      <point x="535" y="59" type="line"/>
+      <point x="791" y="647" type="line"/>
+      <point x="612" y="1061" type="line"/>
+      <point x="655" y="1061" type="line"/>
+      <point x="813" y="700" type="line"/>
+      <point x="971" y="1061" type="line"/>
+      <point x="1014" y="1061" type="line"/>
+      <point x="836" y="647" type="line"/>
+      <point x="1092" y="59" type="line"/>
+    </contour>
+  </outline>
+</glyph>

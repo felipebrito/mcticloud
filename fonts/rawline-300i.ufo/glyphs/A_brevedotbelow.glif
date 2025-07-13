@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="1329"/>
+  <unicode hex="1EB6"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="946" y="1884" name="Anchor-9"/>
+  <anchor x="1169" y="0" name="Anchor-8"/>
+  <anchor x="487" y="-309" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1057" y="1884" type="qcurve"/>
+      <point x="1122" y="1884" type="line"/>
+      <point x="1105" y="1806"/>
+      <point x="979" y="1696"/>
+      <point x="907" y="1696" type="qcurve" smooth="yes"/>
+      <point x="845" y="1696"/>
+      <point x="766" y="1779"/>
+      <point x="766" y="1843" type="qcurve" smooth="yes"/>
+      <point x="766" y="1856"/>
+      <point x="770" y="1884" type="qcurve"/>
+      <point x="838" y="1884" type="line"/>
+      <point x="836" y="1874"/>
+      <point x="836" y="1855" type="qcurve" smooth="yes"/>
+      <point x="836" y="1813"/>
+      <point x="884" y="1753"/>
+      <point x="920" y="1753" type="qcurve" smooth="yes"/>
+      <point x="960" y="1753"/>
+      <point x="1040" y="1829"/>
+    </contour>
+    <contour>
+      <point x="807" y="1454" type="line"/>
+      <point x="897" y="1454" type="line"/>
+      <point x="1169" y="0" type="line"/>
+      <point x="1059" y="0" type="line"/>
+      <point x="969" y="479" type="line"/>
+      <point x="315" y="479" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="-88" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="961" y="565" type="line"/>
+      <point x="825" y="1327" type="line"/>
+      <point x="358" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="-309" type="line"/>
+      <point x="479" y="-125" type="line"/>
+      <point x="573" y="-125" type="line"/>
+      <point x="535" y="-309" type="line"/>
+    </contour>
+  </outline>
+</glyph>

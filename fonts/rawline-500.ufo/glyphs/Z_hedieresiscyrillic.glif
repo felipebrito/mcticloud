@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhedieresiscyrillic" format="2">
+  <advance width="2072"/>
+  <unicode hex="04DC"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1036" y="1862" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="795" y="1665" type="line"/>
+      <point x="795" y="1874" type="line"/>
+      <point x="946" y="1874" type="line"/>
+      <point x="946" y="1665" type="line"/>
+    </contour>
+    <contour>
+      <point x="1126" y="1665" type="line"/>
+      <point x="1126" y="1874" type="line"/>
+      <point x="1278" y="1874" type="line"/>
+      <point x="1278" y="1665" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="614" y="752" type="line"/>
+      <point x="86" y="1454" type="line"/>
+      <point x="303" y="1454" type="line"/>
+      <point x="768" y="825" type="line"/>
+      <point x="944" y="825" type="line"/>
+      <point x="944" y="1454" type="line"/>
+      <point x="1128" y="1454" type="line"/>
+      <point x="1128" y="825" type="line"/>
+      <point x="1303" y="825" type="line"/>
+      <point x="1769" y="1454" type="line"/>
+      <point x="1985" y="1454" type="line"/>
+      <point x="1456" y="752" type="line"/>
+      <point x="2021" y="0" type="line"/>
+      <point x="1806" y="0" type="line"/>
+      <point x="1307" y="657" type="line"/>
+      <point x="1128" y="657" type="line"/>
+      <point x="1128" y="0" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="944" y="657" type="line"/>
+      <point x="764" y="657" type="line"/>
+      <point x="264" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044C.loclBGR" format="2">
+  <advance width="1130"/>
+  <outline>
+    <contour>
+      <point x="596" y="-12" type="qcurve" smooth="yes"/>
+      <point x="368" y="-12"/>
+      <point x="125" y="204"/>
+      <point x="125" y="418" type="qcurve" smooth="yes"/>
+      <point x="125" y="1071" type="line"/>
+      <point x="350" y="1071" type="line"/>
+      <point x="350" y="756" type="line"/>
+      <point x="596" y="756" type="line" smooth="yes"/>
+      <point x="734" y="756"/>
+      <point x="936" y="681"/>
+      <point x="1059" y="506"/>
+      <point x="1059" y="373" type="qcurve" smooth="yes"/>
+      <point x="1059" y="176"/>
+      <point x="808" y="-12"/>
+    </contour>
+    <contour>
+      <point x="709" y="174"/>
+      <point x="836" y="280"/>
+      <point x="836" y="377" type="qcurve" smooth="yes"/>
+      <point x="836" y="473"/>
+      <point x="708" y="580"/>
+      <point x="592" y="580" type="qcurve" smooth="yes"/>
+      <point x="350" y="580" type="line"/>
+      <point x="350" y="406" type="line" smooth="yes"/>
+      <point x="350" y="294"/>
+      <point x="475" y="174"/>
+    </contour>
+  </outline>
+</glyph>

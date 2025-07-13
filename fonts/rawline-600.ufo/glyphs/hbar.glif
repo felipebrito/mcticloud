@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="1222"/>
+  <unicode hex="0127"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="610" y="535" name="Anchor-10"/>
+  <anchor x="651" y="1454" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="610" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="758" y="1090" type="qcurve" smooth="yes"/>
+      <point x="1096" y="1090"/>
+      <point x="1096" y="653" type="qcurve" smooth="yes"/>
+      <point x="1096" y="0" type="line"/>
+      <point x="870" y="0" type="line"/>
+      <point x="870" y="600" type="line" smooth="yes"/>
+      <point x="870" y="744"/>
+      <point x="766" y="889"/>
+      <point x="668" y="889" type="qcurve" smooth="yes"/>
+      <point x="574" y="889"/>
+      <point x="393" y="745"/>
+      <point x="360" y="637" type="qcurve"/>
+      <point x="360" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="135" y="1237" type="line"/>
+      <point x="33" y="1237" type="line"/>
+      <point x="33" y="1376" type="line"/>
+      <point x="135" y="1376" type="line"/>
+      <point x="135" y="1495" type="line"/>
+      <point x="360" y="1495" type="line"/>
+      <point x="360" y="1376" type="line"/>
+      <point x="608" y="1376" type="line"/>
+      <point x="608" y="1237" type="line"/>
+      <point x="360" y="1237" type="line"/>
+      <point x="360" y="856" type="line"/>
+      <point x="422" y="965"/>
+      <point x="634" y="1090"/>
+    </contour>
+  </outline>
+</glyph>

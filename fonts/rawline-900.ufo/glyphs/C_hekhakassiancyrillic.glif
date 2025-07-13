@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chekhakassiancyrillic" format="2">
+  <advance width="1454"/>
+  <unicode hex="04CB"/>
+  <outline>
+    <contour>
+      <point x="940" y="1454" type="line"/>
+      <point x="1329" y="1454" type="line"/>
+      <point x="1329" y="0" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1014" y="-279" type="line"/>
+      <point x="676" y="-279" type="line"/>
+      <point x="676" y="225" type="line"/>
+      <point x="940" y="225" type="line"/>
+      <point x="940" y="598" type="line"/>
+      <point x="929" y="592"/>
+      <point x="885" y="573"/>
+      <point x="729" y="541"/>
+      <point x="639" y="541" type="qcurve" smooth="yes"/>
+      <point x="375" y="541"/>
+      <point x="113" y="783"/>
+      <point x="113" y="1042" type="qcurve" smooth="yes"/>
+      <point x="113" y="1454" type="line"/>
+      <point x="502" y="1454" type="line"/>
+      <point x="502" y="1087" type="line" smooth="yes"/>
+      <point x="502" y="991"/>
+      <point x="613" y="899"/>
+      <point x="737" y="899" type="qcurve" smooth="yes"/>
+      <point x="842" y="899"/>
+      <point x="940" y="936" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

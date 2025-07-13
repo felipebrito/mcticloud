@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>Rawline SemiBold</string>
+    <key>styleName</key>
+    <string>SemiBoldItalic</string>
+    <key>styleMapFamilyName</key>
+    <string>Rawline SemiBold Italic</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>versionMajor</key>
+    <integer>4</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)</string>
+    <key>trademark</key>
+    <string>Raleway is a trademark of Matt McInerney.</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>capHeight</key>
+    <integer>710</integer>
+    <key>xHeight</key>
+    <integer>523</integer>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>italicAngle</key>
+    <real>-12</real>
+    <key>openTypeHeadCreated</key>
+    <string>2016/11/16 00:45:53</string>
+    <key>openTypeHheaAscender</key>
+    <integer>2327</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-503</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://pixelspread.com</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://theleagueofmoveabletype.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 4.020;PS 004.020;hotconv 1.0.88;makeotf.lib2.5.64775</string>
+    <key>openTypeNameUniqueID</key>
+    <string>Rawline-SemiBoldItalic-2017:8:19</string>
+    <key>openTypeNameDescription</key>
+    <string>Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.&#13;It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set.</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Rawline</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>SemiBold Italic</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>7</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>600</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>UKWN</string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>2</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1638</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-410</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2327</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>503</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>1229</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>-33</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>154</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>1331</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>1229</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>152</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>717</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>102</integer>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>641</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>9</integer>
+      <integer>29</integer>
+      <integer>32</integer>
+      <integer>33</integer>
+    </array>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>4</integer>
+      <integer>7</integer>
+      <integer>8</integer>
+      <integer>29</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>Rawline-SemiBoldItalic</string>
+    <key>postscriptFullName</key>
+    <string>Rawline SemiBold Italic</string>
+    <key>postscriptWeightName</key>
+    <string>Demi</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>102</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-510</integer>
+    <key>guidelines</key>
+    <array/>
+  </dict>
+</plist>

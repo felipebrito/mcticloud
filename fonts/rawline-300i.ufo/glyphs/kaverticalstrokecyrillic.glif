@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaverticalstrokecyrillic" format="2">
+  <advance width="1019"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="1022" y="1065" type="line"/>
+      <point x="898" y="876"/>
+      <point x="679" y="623"/>
+      <point x="563" y="545" type="qcurve"/>
+      <point x="862" y="0" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="469" y="508" type="line"/>
+      <point x="461" y="508" type="line"/>
+      <point x="412" y="276" type="line"/>
+      <point x="340" y="276" type="line"/>
+      <point x="389" y="508" type="line"/>
+      <point x="250" y="508" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="266" y="1065" type="line"/>
+      <point x="369" y="1065" type="line"/>
+      <point x="266" y="582" type="line"/>
+      <point x="403" y="582" type="line"/>
+      <point x="451" y="801" type="line"/>
+      <point x="524" y="801" type="line"/>
+      <point x="479" y="590" type="line"/>
+      <point x="592" y="656"/>
+      <point x="793" y="887"/>
+      <point x="911" y="1065" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

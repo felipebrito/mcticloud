@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdieresis" format="2">
+  <advance width="866"/>
+  <unicode hex="1E97"/>
+  <anchor x="702" y="1077" name="Anchor-11"/>
+  <anchor x="434" y="539" name="Anchor-10"/>
+  <anchor x="367" y="1853" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="492" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="-29" y="1567" type="line"/>
+      <point x="-29" y="1853" type="line"/>
+      <point x="291" y="1853" type="line"/>
+      <point x="291" y="1567" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="1567" type="line"/>
+      <point x="442" y="1853" type="line"/>
+      <point x="762" y="1853" type="line"/>
+      <point x="762" y="1567" type="line"/>
+    </contour>
+    <contour>
+      <point x="854" y="59" type="line"/>
+      <point x="664" y="-23"/>
+      <point x="496" y="-23" type="qcurve" smooth="yes"/>
+      <point x="427" y="-23"/>
+      <point x="314" y="11"/>
+      <point x="223" y="82"/>
+      <point x="172" y="206"/>
+      <point x="172" y="291" type="qcurve" smooth="yes"/>
+      <point x="172" y="784" type="line"/>
+      <point x="39" y="784" type="line"/>
+      <point x="39" y="1077" type="line"/>
+      <point x="172" y="1077" type="line"/>
+      <point x="172" y="1415" type="line"/>
+      <point x="561" y="1415" type="line"/>
+      <point x="561" y="1077" type="line"/>
+      <point x="772" y="1077" type="line"/>
+      <point x="772" y="784" type="line"/>
+      <point x="561" y="784" type="line"/>
+      <point x="561" y="428" type="line" smooth="yes"/>
+      <point x="561" y="332"/>
+      <point x="645" y="332" type="qcurve" smooth="yes"/>
+      <point x="698" y="332"/>
+      <point x="784" y="367" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

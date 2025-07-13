@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommabelow" format="2">
+  <advance width="1267"/>
+  <unicode hex="021A"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="645" y="1452" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="635" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1239" y="1206" type="line"/>
+      <point x="774" y="1206" type="line"/>
+      <point x="774" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="494" y="1206" type="line"/>
+      <point x="29" y="1206" type="line"/>
+      <point x="29" y="1454" type="line"/>
+      <point x="1239" y="1454" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="-436" type="line"/>
+      <point x="592" y="-289" type="line"/>
+      <point x="512" y="-289" type="line"/>
+      <point x="512" y="-96" type="line"/>
+      <point x="743" y="-96" type="line"/>
+      <point x="743" y="-289" type="line"/>
+      <point x="662" y="-436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

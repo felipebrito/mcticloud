@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ygrave" format="2">
+  <advance width="1275"/>
+  <unicode hex="1EF2"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="758" y="1870" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="555" y="1870" type="line"/>
+      <point x="850" y="1870" type="line"/>
+      <point x="895" y="1604" type="line"/>
+      <point x="668" y="1571" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="500" type="line"/>
+      <point x="158" y="1454" type="line"/>
+      <point x="522" y="1454" type="line"/>
+      <point x="664" y="786" type="line"/>
+      <point x="1096" y="1454" type="line"/>
+      <point x="1460" y="1454" type="line"/>
+      <point x="768" y="496" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="328" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

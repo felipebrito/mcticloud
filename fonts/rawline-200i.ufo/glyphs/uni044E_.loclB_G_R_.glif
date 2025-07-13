@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E.loclBGR" format="2">
+  <advance width="1576"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1069" y="1063" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="1036" y="1081" type="qcurve" smooth="yes"/>
+      <point x="1176" y="1081"/>
+      <point x="1392" y="930"/>
+      <point x="1493" y="676"/>
+      <point x="1473" y="528" type="qcurve" smooth="yes"/>
+      <point x="1458" y="418"/>
+      <point x="1352" y="217"/>
+      <point x="1196" y="68"/>
+      <point x="991" y="-20"/>
+      <point x="881" y="-20" type="qcurve" smooth="yes"/>
+      <point x="744" y="-20"/>
+      <point x="532" y="122"/>
+      <point x="430" y="360"/>
+      <point x="442" y="502" type="qcurve"/>
+      <point x="207" y="502" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="348" y="1495" type="line"/>
+      <point x="418" y="1495" type="line"/>
+      <point x="219" y="561" type="line"/>
+      <point x="453" y="561" type="line"/>
+      <point x="480" y="702"/>
+      <point x="653" y="941"/>
+      <point x="903" y="1081"/>
+    </contour>
+    <contour>
+      <point x="1401" y="530" type="qcurve" smooth="yes"/>
+      <point x="1419" y="660"/>
+      <point x="1331" y="885"/>
+      <point x="1146" y="1018"/>
+      <point x="1028" y="1018" type="qcurve" smooth="yes"/>
+      <point x="847" y="1018"/>
+      <point x="545" y="727"/>
+      <point x="516" y="526" type="qcurve" smooth="yes"/>
+      <point x="498" y="395"/>
+      <point x="585" y="173"/>
+      <point x="770" y="43"/>
+      <point x="889" y="43" type="qcurve" smooth="yes"/>
+      <point x="1007" y="43"/>
+      <point x="1233" y="180"/>
+      <point x="1384" y="405"/>
+    </contour>
+  </outline>
+</glyph>

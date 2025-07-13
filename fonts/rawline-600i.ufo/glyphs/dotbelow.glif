@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow" format="2">
+  <advance width="407"/>
+  <anchor x="0" y="0" name="Anchor-1"/>
+  <anchor x="8" y="-387" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-94" y="-387" type="line"/>
+      <point x="-43" y="-150" type="line"/>
+      <point x="160" y="-150" type="line"/>
+      <point x="111" y="-387" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="2">
+  <advance width="665"/>
+  <unicode hex="0159"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="506" y="1495" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="72" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="274" y="1466" type="line"/>
+      <point x="326" y="1495" type="line"/>
+      <point x="465" y="1366" type="line"/>
+      <point x="657" y="1495" type="line"/>
+      <point x="696" y="1466" type="line"/>
+      <point x="477" y="1307" type="line"/>
+      <point x="424" y="1307" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="1065" type="line"/>
+      <point x="324" y="1065" type="line"/>
+      <point x="266" y="795" type="line"/>
+      <point x="346" y="914"/>
+      <point x="561" y="1054"/>
+      <point x="670" y="1063" type="qcurve" smooth="yes"/>
+      <point x="693" y="1066"/>
+      <point x="713" y="1063" type="qcurve"/>
+      <point x="698" y="999" type="line"/>
+      <point x="556" y="993"/>
+      <point x="314" y="819"/>
+      <point x="242" y="670" type="qcurve"/>
+      <point x="100" y="0" type="line"/>
+      <point x="31" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

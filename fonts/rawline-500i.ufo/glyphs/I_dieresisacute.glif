@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresisacute" format="2">
+  <advance width="528"/>
+  <unicode hex="1E2E"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="672" y="2298" name="Anchor-9"/>
+  <anchor x="225" y="0" name="Anchor-8"/>
+  <anchor x="133" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="614" y="2050" type="line"/>
+      <point x="504" y="2091" type="line"/>
+      <point x="659" y="2298" type="line"/>
+      <point x="838" y="2298" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1663" type="line"/>
+      <point x="297" y="1872" type="line"/>
+      <point x="449" y="1872" type="line"/>
+      <point x="403" y="1663" type="line"/>
+    </contour>
+    <contour>
+      <point x="573" y="1663" type="line"/>
+      <point x="618" y="1872" type="line"/>
+      <point x="768" y="1872" type="line"/>
+      <point x="725" y="1663" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="1452" type="line"/>
+      <point x="535" y="1452" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcedilla" format="2">
+  <advance width="1413"/>
+  <unicode hex="0136"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="0" y="0" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="758" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1454" type="line"/>
+      <point x="524" y="1454" type="line"/>
+      <point x="524" y="901" type="line"/>
+      <point x="967" y="1454" type="line"/>
+      <point x="1417" y="1454" type="line"/>
+      <point x="889" y="803" type="line"/>
+      <point x="1454" y="0" type="line"/>
+      <point x="995" y="0" type="line"/>
+      <point x="635" y="535" type="line"/>
+      <point x="524" y="420" type="line"/>
+      <point x="524" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="633" y="-436" type="line"/>
+      <point x="707" y="-311" type="line"/>
+      <point x="590" y="-311" type="line"/>
+      <point x="590" y="-94" type="line"/>
+      <point x="911" y="-94" type="line"/>
+      <point x="911" y="-311" type="line"/>
+      <point x="801" y="-436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

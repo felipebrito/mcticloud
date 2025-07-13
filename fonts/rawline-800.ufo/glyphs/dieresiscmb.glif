@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <anchor x="-520" y="1073" name="_Anchor-15"/>
+  <anchor x="-520" y="1475" name="Anchor-13"/>
+  <anchor x="-520" y="1073" name="_Anchor-13"/>
+  <anchor x="-520" y="1073" name="_Anchor-9"/>
+  <anchor x="-520" y="1073" name="_Anchor-4"/>
+  <anchor x="-520" y="1073" name="_Anchor-1"/>
+  <outline>
+    <contour>
+      <point x="-870" y="1214" type="line"/>
+      <point x="-870" y="1479" type="line"/>
+      <point x="-600" y="1479" type="line"/>
+      <point x="-600" y="1214" type="line"/>
+    </contour>
+    <contour>
+      <point x="-440" y="1214" type="line"/>
+      <point x="-440" y="1479" type="line"/>
+      <point x="-170" y="1479" type="line"/>
+      <point x="-170" y="1214" type="line"/>
+    </contour>
+  </outline>
+</glyph>

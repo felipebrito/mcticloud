@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheverticalstrokecyrillic" format="2">
+  <advance width="1384"/>
+  <unicode hex="04B8"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="678" y="639" name="Anchor-5"/>
+  <anchor x="702" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="958" y="1454" type="line"/>
+      <point x="1233" y="1454" type="line"/>
+      <point x="1233" y="0" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="958" y="567" type="line"/>
+      <point x="859" y="519"/>
+      <point x="735" y="506" type="qcurve"/>
+      <point x="735" y="307" type="line"/>
+      <point x="616" y="307" type="line"/>
+      <point x="616" y="500" type="line"/>
+      <point x="366" y="503"/>
+      <point x="123" y="731"/>
+      <point x="123" y="973" type="qcurve" smooth="yes"/>
+      <point x="123" y="1454" type="line"/>
+      <point x="397" y="1454" type="line"/>
+      <point x="397" y="1004" type="line" smooth="yes"/>
+      <point x="397" y="889"/>
+      <point x="499" y="770"/>
+      <point x="616" y="758" type="qcurve"/>
+      <point x="616" y="995" type="line"/>
+      <point x="735" y="995" type="line"/>
+      <point x="735" y="756" type="line"/>
+      <point x="866" y="762"/>
+      <point x="958" y="809" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

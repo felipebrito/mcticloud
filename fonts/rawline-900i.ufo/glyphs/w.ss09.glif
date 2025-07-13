@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.ss09" format="2">
+  <advance width="1777"/>
+  <outline>
+    <contour>
+      <point x="90" y="1077" type="line"/>
+      <point x="489" y="1077" type="line"/>
+      <point x="532" y="459" type="line"/>
+      <point x="799" y="1077" type="line"/>
+      <point x="1165" y="1077" type="line"/>
+      <point x="1165" y="459" type="line"/>
+      <point x="1470" y="1077" type="line"/>
+      <point x="1870" y="1077" type="line"/>
+      <point x="1298" y="0" type="line"/>
+      <point x="850" y="0" type="line"/>
+      <point x="850" y="469" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

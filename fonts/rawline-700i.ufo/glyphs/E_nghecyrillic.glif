@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enghecyrillic" format="2">
+  <advance width="1968"/>
+  <unicode hex="04A4"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="776" y="727" name="Anchor-5"/>
+  <anchor x="930" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="623" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="2105" y="1454" type="line"/>
+      <point x="2052" y="1206" type="line"/>
+      <point x="1444" y="1206" type="line"/>
+      <point x="1188" y="0" type="line"/>
+      <point x="907" y="0" type="line"/>
+      <point x="1038" y="621" type="line"/>
+      <point x="432" y="621" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="330" y="1454" type="line"/>
+      <point x="610" y="1454" type="line"/>
+      <point x="485" y="866" type="line"/>
+      <point x="1092" y="866" type="line"/>
+      <point x="1217" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

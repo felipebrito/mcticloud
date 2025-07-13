@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestrokecyrillic" format="2">
+  <advance width="1021"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="1016" y="739" type="line"/>
+      <point x="631" y="739" type="line"/>
+      <point x="586" y="532" type="line"/>
+      <point x="858" y="532" type="line"/>
+      <point x="809" y="301" type="line"/>
+      <point x="537" y="301" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="147" y="301" type="line"/>
+      <point x="0" y="301" type="line"/>
+      <point x="49" y="532" type="line"/>
+      <point x="197" y="532" type="line"/>
+      <point x="313" y="1077" type="line"/>
+      <point x="1087" y="1077" type="line"/>
+    </contour>
+  </outline>
+</glyph>

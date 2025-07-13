@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacronacute" format="2">
+  <advance width="1253"/>
+  <unicode hex="1E16"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="782" y="2265" name="Anchor-9"/>
+  <anchor x="1159" y="0" name="Anchor-8"/>
+  <anchor x="696" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="731" y="2058" type="line"/>
+      <point x="659" y="2091" type="line"/>
+      <point x="784" y="2265" type="line"/>
+      <point x="903" y="2265" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="1759" type="line"/>
+      <point x="406" y="1835" type="line"/>
+      <point x="989" y="1835" type="line"/>
+      <point x="989" y="1759" type="line"/>
+    </contour>
+    <contour>
+      <point x="1159" y="94" type="line"/>
+      <point x="1159" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="1454" type="line"/>
+      <point x="1141" y="1454" type="line"/>
+      <point x="1141" y="1360" type="line"/>
+      <point x="295" y="1360" type="line"/>
+      <point x="295" y="788" type="line"/>
+      <point x="1034" y="788" type="line"/>
+      <point x="1034" y="698" type="line"/>
+      <point x="295" y="698" type="line"/>
+      <point x="295" y="94" type="line"/>
+    </contour>
+  </outline>
+</glyph>

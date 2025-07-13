@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.ss08" format="2">
+  <advance width="1144"/>
+  <outline>
+    <contour>
+      <point x="84" y="252" type="qcurve" smooth="yes"/>
+      <point x="84" y="342"/>
+      <point x="109" y="451" type="qcurve" smooth="yes"/>
+      <point x="240" y="1065" type="line"/>
+      <point x="342" y="1065" type="line"/>
+      <point x="213" y="465" type="line" smooth="yes"/>
+      <point x="190" y="344"/>
+      <point x="190" y="287" type="qcurve" smooth="yes"/>
+      <point x="190" y="72"/>
+      <point x="389" y="72" type="qcurve" smooth="yes"/>
+      <point x="517" y="72"/>
+      <point x="772" y="259"/>
+      <point x="840" y="393" type="qcurve"/>
+      <point x="983" y="1065" type="line"/>
+      <point x="1085" y="1065" type="line"/>
+      <point x="858" y="0" type="line"/>
+      <point x="758" y="0" type="line"/>
+      <point x="811" y="248" type="line"/>
+      <point x="725" y="126"/>
+      <point x="469" y="-20"/>
+      <point x="342" y="-20" type="qcurve" smooth="yes"/>
+      <point x="84" y="-20"/>
+    </contour>
+  </outline>
+</glyph>

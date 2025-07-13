@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10027" format="2">
+  <advance width="1476"/>
+  <unicode hex="0419"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="913" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="952" y="1702" type="qcurve" smooth="yes"/>
+      <point x="814" y="1702"/>
+      <point x="683" y="1801"/>
+      <point x="696" y="1876" type="qcurve"/>
+      <point x="758" y="1876" type="line"/>
+      <point x="748" y="1826"/>
+      <point x="847" y="1753"/>
+      <point x="942" y="1753" type="qcurve" smooth="yes"/>
+      <point x="1066" y="1753"/>
+      <point x="1201" y="1818"/>
+      <point x="1212" y="1876" type="qcurve"/>
+      <point x="1270" y="1876" type="line"/>
+      <point x="1259" y="1801"/>
+      <point x="1092" y="1702"/>
+    </contour>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="371" y="1454" type="line"/>
+      <point x="442" y="1454" type="line"/>
+      <point x="156" y="102" type="line"/>
+      <point x="1395" y="1454" type="line"/>
+      <point x="1462" y="1454" type="line"/>
+      <point x="1153" y="0" type="line"/>
+      <point x="1081" y="0" type="line"/>
+      <point x="1366" y="1333" type="line"/>
+      <point x="141" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

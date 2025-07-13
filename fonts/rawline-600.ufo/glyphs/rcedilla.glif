@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcedilla" format="2">
+  <advance width="765"/>
+  <unicode hex="0157"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="436" y="1071" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="240" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="737" y="877" type="line"/>
+      <point x="605" y="874"/>
+      <point x="402" y="757"/>
+      <point x="360" y="655" type="qcurve"/>
+      <point x="360" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="135" y="1071" type="line"/>
+      <point x="344" y="1071" type="line"/>
+      <point x="344" y="831" type="line"/>
+      <point x="400" y="941"/>
+      <point x="579" y="1075"/>
+      <point x="680" y="1081" type="qcurve" smooth="yes"/>
+      <point x="723" y="1081"/>
+      <point x="737" y="1079" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="154" y="-436" type="line"/>
+      <point x="201" y="-279" type="line"/>
+      <point x="135" y="-279" type="line"/>
+      <point x="135" y="-98" type="line"/>
+      <point x="330" y="-98" type="line"/>
+      <point x="330" y="-279" type="line"/>
+      <point x="258" y="-436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

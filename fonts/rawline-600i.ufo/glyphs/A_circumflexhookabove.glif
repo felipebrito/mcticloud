@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexhookabove" format="2">
+  <advance width="1329"/>
+  <unicode hex="1EA8"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="1034" y="2300" name="Anchor-9"/>
+  <anchor x="1184" y="0" name="Anchor-8"/>
+  <anchor x="551" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1051" y="2052" type="qcurve"/>
+      <point x="1006" y="2126" type="line"/>
+      <point x="1125" y="2210"/>
+      <point x="1229" y="2210" type="qcurve" smooth="yes"/>
+      <point x="1302" y="2210"/>
+      <point x="1353" y="2127"/>
+      <point x="1331" y="2066" type="qcurve" smooth="yes"/>
+      <point x="1292" y="1970"/>
+      <point x="1133" y="1872" type="qcurve"/>
+      <point x="1098" y="1939" type="line"/>
+      <point x="1181" y="1991"/>
+      <point x="1200" y="2042" type="qcurve" smooth="yes"/>
+      <point x="1209" y="2067"/>
+      <point x="1191" y="2099"/>
+      <point x="1165" y="2099" type="qcurve" smooth="yes"/>
+      <point x="1122" y="2099"/>
+    </contour>
+    <contour>
+      <point x="614" y="1649" type="line"/>
+      <point x="858" y="1843" type="line"/>
+      <point x="1022" y="1843" type="line"/>
+      <point x="1182" y="1649" type="line"/>
+      <point x="1051" y="1591" type="line"/>
+      <point x="913" y="1720" type="line"/>
+      <point x="721" y="1591" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="1454" type="line"/>
+      <point x="950" y="1454" type="line"/>
+      <point x="1184" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="885" y="395" type="line"/>
+      <point x="362" y="395" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="-102" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="877" y="565" type="line"/>
+      <point x="795" y="1190" type="line"/>
+      <point x="438" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

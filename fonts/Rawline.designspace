@@ -1,0 +1,16 @@
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="rawline-100.ufo" name="Rawline-100" location="{'Weight': 100}"/>
+    <source filename="rawline-200.ufo" name="Rawline-200" location="{'Weight': 200}"/>
+    <source filename="rawline-300.ufo" name="Rawline-300" location="{'Weight': 300}"/>
+    <source filename="rawline-400.ufo" name="Rawline-400" location="{'Weight': 400}"/>
+    <source filename="rawline-500.ufo" name="Rawline-500" location="{'Weight': 500}"/>
+    <source filename="rawline-600.ufo" name="Rawline-600" location="{'Weight': 600}"/>
+    <source filename="rawline-700.ufo" name="Rawline-700" location="{'Weight': 700}"/>
+    <source filename="rawline-800.ufo" name="Rawline-800" location="{'Weight': 800}"/>
+    <source filename="rawline-900.ufo" name="Rawline-900" location="{'Weight': 900}"/>
+  </sources>
+</designspace>

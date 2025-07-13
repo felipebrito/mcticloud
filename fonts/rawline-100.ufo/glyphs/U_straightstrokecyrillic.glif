@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightstrokecyrillic" format="2">
+  <advance width="1300"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="473" type="line"/>
+      <point x="350" y="473" type="line"/>
+      <point x="350" y="514" type="line"/>
+      <point x="629" y="514" type="line"/>
+      <point x="629" y="567" type="line"/>
+      <point x="41" y="1454" type="line"/>
+      <point x="88" y="1454" type="line"/>
+      <point x="649" y="610" type="line"/>
+      <point x="1212" y="1454" type="line"/>
+      <point x="1260" y="1454" type="line"/>
+      <point x="670" y="563" type="line"/>
+      <point x="670" y="514" type="line"/>
+      <point x="950" y="514" type="line"/>
+      <point x="950" y="473" type="line"/>
+      <point x="670" y="473" type="line"/>
+      <point x="670" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

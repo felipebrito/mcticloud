@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442.loclBGR" format="2">
+  <advance width="1773"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="999" y="1063" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="774" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="260" y="1063" type="line"/>
+      <point x="301" y="1063" type="line"/>
+      <point x="244" y="788" type="line"/>
+      <point x="339" y="926"/>
+      <point x="576" y="1079"/>
+      <point x="696" y="1079" type="qcurve" smooth="yes"/>
+      <point x="821" y="1079"/>
+      <point x="949" y="909"/>
+      <point x="936" y="758" type="qcurve"/>
+      <point x="1010" y="909"/>
+      <point x="1273" y="1079"/>
+      <point x="1409" y="1079" type="qcurve" smooth="yes"/>
+      <point x="1640" y="1079"/>
+      <point x="1640" y="811" type="qcurve" smooth="yes"/>
+      <point x="1640" y="713"/>
+      <point x="1614" y="592" type="qcurve" smooth="yes"/>
+      <point x="1489" y="0" type="line"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1573" y="592" type="line" smooth="yes"/>
+      <point x="1597" y="712"/>
+      <point x="1597" y="799" type="qcurve" smooth="yes"/>
+      <point x="1597" y="920"/>
+      <point x="1498" y="1038"/>
+      <point x="1397" y="1038" type="qcurve" smooth="yes"/>
+      <point x="1259" y="1038"/>
+      <point x="1001" y="836"/>
+      <point x="924" y="670" type="qcurve"/>
+      <point x="782" y="0" type="line"/>
+      <point x="741" y="0" type="line"/>
+      <point x="866" y="592" type="line" smooth="yes"/>
+      <point x="893" y="718"/>
+      <point x="893" y="805" type="qcurve" smooth="yes"/>
+      <point x="893" y="924"/>
+      <point x="795" y="1038"/>
+      <point x="694" y="1038" type="qcurve" smooth="yes"/>
+      <point x="554" y="1038"/>
+      <point x="298" y="838"/>
+      <point x="219" y="672" type="qcurve"/>
+      <point x="76" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

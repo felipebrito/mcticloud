@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0324"/>
+  <anchor x="-602" y="-395" name="Anchor-12"/>
+  <anchor x="-506" y="0" name="_Anchor-12"/>
+  <anchor x="-506" y="0" name="_Anchor-7"/>
+  <anchor x="-506" y="0" name="_Anchor-2"/>
+  <anchor x="-506" y="0" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-850" y="-395" type="line"/>
+      <point x="-795" y="-170" type="line"/>
+      <point x="-614" y="-170" type="line"/>
+      <point x="-670" y="-395" type="line"/>
+    </contour>
+    <contour>
+      <point x="-532" y="-395" type="line"/>
+      <point x="-477" y="-170" type="line"/>
+      <point x="-297" y="-170" type="line"/>
+      <point x="-352" y="-395" type="line"/>
+    </contour>
+  </outline>
+</glyph>

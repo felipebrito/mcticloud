@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="2">
+  <advance width="1345"/>
+  <unicode hex="00DD"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="768" y="1874" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="674" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="750" y="1604" type="line"/>
+      <point x="602" y="1649" type="line"/>
+      <point x="719" y="1874" type="line"/>
+      <point x="934" y="1874" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="1454" type="line"/>
+      <point x="672" y="731" type="line"/>
+      <point x="1077" y="1454" type="line"/>
+      <point x="1329" y="1454" type="line"/>
+      <point x="786" y="520" type="line"/>
+      <point x="786" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="557" y="524" type="line"/>
+      <point x="18" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

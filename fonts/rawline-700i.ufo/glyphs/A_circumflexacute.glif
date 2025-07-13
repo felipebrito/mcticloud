@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="2">
+  <advance width="1320"/>
+  <unicode hex="1EA4"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="1030" y="2302" name="Anchor-9"/>
+  <anchor x="1184" y="0" name="Anchor-8"/>
+  <anchor x="547" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1315" y="1812" type="line"/>
+      <point x="1137" y="1847" type="line"/>
+      <point x="1292" y="2091" type="line"/>
+      <point x="1546" y="2091" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="1645" type="line"/>
+      <point x="840" y="1851" type="line"/>
+      <point x="1036" y="1851" type="line"/>
+      <point x="1202" y="1645" type="line"/>
+      <point x="1044" y="1579" type="line"/>
+      <point x="907" y="1708" type="line"/>
+      <point x="715" y="1579" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="1454" type="line"/>
+      <point x="973" y="1454" type="line"/>
+      <point x="1184" y="0" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="848" y="362" type="line"/>
+      <point x="379" y="362" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="-109" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="842" y="561" type="line"/>
+      <point x="778" y="1133" type="line"/>
+      <point x="467" y="561" type="line"/>
+    </contour>
+  </outline>
+</glyph>

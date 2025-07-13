@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ahookabove" format="2">
+  <advance width="1302"/>
+  <unicode hex="1EA2"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="936" y="1993" name="Anchor-9"/>
+  <anchor x="1184" y="0" name="Anchor-8"/>
+  <anchor x="537" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="784" y="1769" type="qcurve"/>
+      <point x="719" y="1872" type="line"/>
+      <point x="883" y="1993"/>
+      <point x="1004" y="1993" type="qcurve" smooth="yes"/>
+      <point x="1095" y="1993"/>
+      <point x="1168" y="1899"/>
+      <point x="1139" y="1821" type="qcurve" smooth="yes"/>
+      <point x="1109" y="1743"/>
+      <point x="999" y="1638"/>
+      <point x="889" y="1569" type="qcurve"/>
+      <point x="834" y="1665" type="line"/>
+      <point x="928" y="1716"/>
+      <point x="946" y="1763" type="qcurve" smooth="yes"/>
+      <point x="955" y="1790"/>
+      <point x="935" y="1825"/>
+      <point x="907" y="1825" type="qcurve" smooth="yes"/>
+      <point x="888" y="1825"/>
+      <point x="847" y="1809"/>
+      <point x="818" y="1791"/>
+    </contour>
+    <contour>
+      <point x="655" y="1454" type="line"/>
+      <point x="1022" y="1454" type="line"/>
+      <point x="1184" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="764" y="285" type="line"/>
+      <point x="416" y="285" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="-125" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="551" type="line"/>
+      <point x="741" y="1001" type="line"/>
+      <point x="530" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

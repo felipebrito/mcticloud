@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdot" format="2">
+  <advance width="1343"/>
+  <unicode hex="010A"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="958" y="1882" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="559" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="854" y="1683" type="line"/>
+      <point x="897" y="1882" type="line"/>
+      <point x="1024" y="1882" type="line"/>
+      <point x="981" y="1683" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="592" type="qcurve" smooth="yes"/>
+      <point x="96" y="714"/>
+      <point x="171" y="964"/>
+      <point x="316" y="1186"/>
+      <point x="510" y="1360"/>
+      <point x="769" y="1462"/>
+      <point x="911" y="1462" type="qcurve" smooth="yes"/>
+      <point x="1101" y="1462"/>
+      <point x="1333" y="1289"/>
+      <point x="1370" y="1145" type="qcurve"/>
+      <point x="1249" y="1079" type="line"/>
+      <point x="1176" y="1333"/>
+      <point x="893" y="1333" type="qcurve" smooth="yes"/>
+      <point x="772" y="1333"/>
+      <point x="559" y="1246"/>
+      <point x="406" y="1099"/>
+      <point x="295" y="911"/>
+      <point x="240" y="705"/>
+      <point x="240" y="604" type="qcurve" smooth="yes"/>
+      <point x="240" y="470"/>
+      <point x="333" y="251"/>
+      <point x="521" y="117"/>
+      <point x="647" y="117" type="qcurve" smooth="yes"/>
+      <point x="772" y="117"/>
+      <point x="1027" y="254"/>
+      <point x="1116" y="387" type="qcurve"/>
+      <point x="1223" y="326" type="line"/>
+      <point x="1154" y="216"/>
+      <point x="946" y="59"/>
+      <point x="729" y="-12"/>
+      <point x="621" y="-12" type="qcurve" smooth="yes"/>
+      <point x="496" y="-12"/>
+      <point x="293" y="91"/>
+      <point x="165" y="262"/>
+      <point x="96" y="476"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydotaccent" format="2">
+  <advance width="1325"/>
+  <unicode hex="1E8E"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="662" y="1878" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="664" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="614" y="1694" type="line"/>
+      <point x="614" y="1878" type="line"/>
+      <point x="709" y="1878" type="line"/>
+      <point x="709" y="1694" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="1454" type="line"/>
+      <point x="662" y="649" type="line"/>
+      <point x="1171" y="1454" type="line"/>
+      <point x="1288" y="1454" type="line"/>
+      <point x="715" y="549" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="610" y="553" type="line"/>
+      <point x="39" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

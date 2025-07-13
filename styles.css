@@ -1,0 +1,279 @@
+@font-face { font-family: 'Rawline100'; src: url('fonts/rawline-100.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline200'; src: url('fonts/rawline-200.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline300'; src: url('fonts/rawline-300.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline400'; src: url('fonts/rawline-400.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline500'; src: url('fonts/rawline-500.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline600'; src: url('fonts/rawline-600.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline700'; src: url('fonts/rawline-700.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline800'; src: url('fonts/rawline-800.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Rawline900'; src: url('fonts/rawline-900.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.cloud-area {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0000008d;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cloud-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at center, rgba(102, 126, 234, 0.1) 0%, transparent 70%);
+    pointer-events: none;
+}
+
+.words-cloud {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.words-cloud svg {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
+
+.cloud-word {
+    pointer-events: all;
+    cursor: pointer;
+    font-family: 'Rawline', sans-serif;
+    transition: none;
+    text-shadow: none;
+    outline: none;
+    stroke: none;
+}
+
+.cloud-word:hover {
+    outline: 2px dashed #fff;
+    outline-offset: 2px;
+    z-index: 10;
+}
+
+.cloud-word.level-1 { font-size: 18px; }
+.cloud-word.level-2 { font-size: 26px; }
+.cloud-word.level-3 { font-size: 36px; }
+.cloud-word.level-4 { font-size: 48px; }
+.cloud-word.level-5 { font-size: 64px; }
+
+.cloud-word.level-1 {
+    font-size: 0.9rem;
+    font-weight: 100;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    animation-delay: 0s;
+}
+
+.cloud-word.level-2 {
+    font-size: 1.1rem;
+    font-weight: 200;
+    background: linear-gradient(135deg, #f093fb, #f5576c);
+    animation-delay: 0.5s;
+}
+
+.cloud-word.level-3 {
+    font-size: 1.3rem;
+    font-weight: 300;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    animation-delay: 1s;
+}
+
+.cloud-word.level-4 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    background: linear-gradient(135deg, #43e97b, #38f9d7);
+    animation-delay: 1.5s;
+}
+
+.cloud-word.level-5 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    background: linear-gradient(135deg, #fa709a, #fee140);
+    animation-delay: 2s;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+
+.stat-item {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 20px 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+
+.stat-label {
+    display: block;
+    font-size: 0.9rem;
+    color: #718096;
+    margin-bottom: 5px;
+}
+
+.stat-value {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4a5568;
+}
+
+.reset-btn {
+    display: block;
+    margin: 0 auto;
+    background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.reset-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.reset-btn:active {
+    transform: scale(0.95);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+    
+    header h1 {
+        font-size: 2rem;
+    }
+    
+    .word-list {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        gap: 8px;
+    }
+    
+    .word-item {
+        padding: 10px 12px;
+        font-size: 0.8rem;
+    }
+    
+    .stats {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .stat-item {
+        padding: 15px 20px;
+    }
+    
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .cloud-word.level-1 { 
+        font-size: 12px; 
+        font-weight: 100;
+    }
+    .cloud-word.level-2 { 
+        font-size: 18px; 
+        font-weight: 200;
+    }
+    .cloud-word.level-3 { 
+        font-size: 24px; 
+        font-weight: 300;
+    }
+    .cloud-word.level-4 { 
+        font-size: 32px; 
+        font-weight: 400;
+    }
+    .cloud-word.level-5 { 
+        font-size: 40px; 
+        font-weight: 500;
+    }
+}
+
+/* Animações de entrada */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes bounceIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.3);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+    70% {
+        transform: scale(0.9);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.fade-in {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+.bounce-in {
+    animation: bounceIn 0.8s ease-out;
+} 
+
+#bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+  pointer-events: none;
+  background: #000;
+} 

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="1382"/>
+  <unicode hex="1EB0"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="700" y="2114" name="Anchor-9"/>
+  <anchor x="1352" y="0" name="Anchor-8"/>
+  <anchor x="711" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="496" y="2009" type="line"/>
+      <point x="612" y="2009" type="line"/>
+      <point x="739" y="1835" type="line"/>
+      <point x="670" y="1802" type="line"/>
+    </contour>
+    <contour>
+      <point x="801" y="1786" type="qcurve"/>
+      <point x="868" y="1786" type="line"/>
+      <point x="868" y="1708"/>
+      <point x="760" y="1597"/>
+      <point x="686" y="1597" type="qcurve" smooth="yes"/>
+      <point x="611" y="1597"/>
+      <point x="504" y="1708"/>
+      <point x="504" y="1786" type="qcurve"/>
+      <point x="571" y="1786" type="line"/>
+      <point x="571" y="1735"/>
+      <point x="642" y="1655"/>
+      <point x="686" y="1655" type="qcurve" smooth="yes"/>
+      <point x="728" y="1655"/>
+      <point x="795" y="1731"/>
+    </contour>
+    <contour>
+      <point x="647" y="1454" type="line"/>
+      <point x="737" y="1454" type="line"/>
+      <point x="1352" y="0" type="line"/>
+      <point x="1241" y="0" type="line"/>
+      <point x="1038" y="479" type="line"/>
+      <point x="344" y="479" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="29" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1010" y="565" type="line"/>
+      <point x="692" y="1327" type="line"/>
+      <point x="369" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

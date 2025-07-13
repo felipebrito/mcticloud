@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkircyrillic" format="2">
+  <advance width="1615"/>
+  <unicode hex="04A0"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1075" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="1753" y="1454" type="line"/>
+      <point x="1073" y="772" type="line"/>
+      <point x="1450" y="0" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="807" y="588" type="line"/>
+      <point x="672" y="588" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="461" y="1176" type="line"/>
+      <point x="145" y="1176" type="line"/>
+      <point x="205" y="1454" type="line"/>
+      <point x="856" y="1454" type="line"/>
+      <point x="737" y="891" type="line"/>
+      <point x="829" y="891" type="line"/>
+      <point x="1350" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

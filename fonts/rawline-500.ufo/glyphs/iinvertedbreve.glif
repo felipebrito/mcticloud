@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="471"/>
+  <unicode hex="020B"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="236" y="1069" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="119" y="1268" type="qcurve"/>
+      <point x="14" y="1268" type="line"/>
+      <point x="14" y="1365"/>
+      <point x="142" y="1495"/>
+      <point x="330" y="1495"/>
+      <point x="457" y="1365"/>
+      <point x="457" y="1268" type="qcurve"/>
+      <point x="354" y="1268" type="line"/>
+      <point x="348" y="1328"/>
+      <point x="280" y="1407"/>
+      <point x="236" y="1407" type="qcurve" smooth="yes"/>
+      <point x="190" y="1407"/>
+      <point x="119" y="1323"/>
+    </contour>
+    <contour>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="1069" type="line"/>
+      <point x="326" y="1069" type="line"/>
+      <point x="326" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

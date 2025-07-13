@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcedilla" format="2">
+  <advance width="1136"/>
+  <unicode hex="013B"/>
+  <anchor x="950" y="1065" name="Anchor-11"/>
+  <anchor x="610" y="727" name="Anchor-10"/>
+  <anchor x="410" y="1454" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="520" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="365" y="1454" type="line"/>
+      <point x="469" y="1454" type="line"/>
+      <point x="180" y="94" type="line"/>
+      <point x="1001" y="94" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="-383" type="line"/>
+      <point x="451" y="-244" type="line"/>
+      <point x="418" y="-244" type="line"/>
+      <point x="451" y="-100" type="line"/>
+      <point x="549" y="-100" type="line"/>
+      <point x="518" y="-244" type="line"/>
+      <point x="449" y="-383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

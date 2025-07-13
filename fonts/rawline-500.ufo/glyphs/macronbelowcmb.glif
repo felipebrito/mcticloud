@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0331"/>
+  <anchor x="-412" y="-293" name="Anchor-12"/>
+  <anchor x="-412" y="0" name="_Anchor-12"/>
+  <anchor x="-412" y="0" name="_Anchor-7"/>
+  <anchor x="-412" y="0" name="_Anchor-2"/>
+  <anchor x="-412" y="0" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-711" y="-293" type="line"/>
+      <point x="-711" y="-174" type="line"/>
+      <point x="-113" y="-174" type="line"/>
+      <point x="-113" y="-293" type="line"/>
+    </contour>
+  </outline>
+</glyph>

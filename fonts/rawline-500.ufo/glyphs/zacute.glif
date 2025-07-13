@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="1009"/>
+  <unicode hex="017A"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="614" y="1495" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="506" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="584" y="1247" type="line"/>
+      <point x="465" y="1288" type="line"/>
+      <point x="584" y="1495" type="line"/>
+      <point x="764" y="1495" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="117" type="line"/>
+      <point x="735" y="938" type="line"/>
+      <point x="80" y="938" type="line"/>
+      <point x="80" y="1069" type="line"/>
+      <point x="938" y="1069" type="line"/>
+      <point x="938" y="952" type="line"/>
+      <point x="268" y="131" type="line"/>
+      <point x="940" y="131" type="line"/>
+      <point x="940" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

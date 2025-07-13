@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="2">
+  <advance width="1382"/>
+  <unicode hex="0200"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="692" y="1448" name="Anchor-9"/>
+  <anchor x="1352" y="0" name="Anchor-8"/>
+  <anchor x="711" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="395" y="1878" type="line"/>
+      <point x="504" y="1878" type="line"/>
+      <point x="625" y="1704" type="line"/>
+      <point x="565" y="1671" type="line"/>
+    </contour>
+    <contour>
+      <point x="633" y="1878" type="line"/>
+      <point x="739" y="1878" type="line"/>
+      <point x="862" y="1704" type="line"/>
+      <point x="803" y="1671" type="line"/>
+    </contour>
+    <contour>
+      <point x="647" y="1454" type="line"/>
+      <point x="737" y="1454" type="line"/>
+      <point x="1352" y="0" type="line"/>
+      <point x="1241" y="0" type="line"/>
+      <point x="1038" y="479" type="line"/>
+      <point x="344" y="479" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="29" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1010" y="565" type="line"/>
+      <point x="692" y="1327" type="line"/>
+      <point x="369" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

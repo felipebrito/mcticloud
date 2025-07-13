@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="385"/>
+  <unicode hex="0135"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="193" y="1495" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="-14" y="1343" type="line"/>
+      <point x="176" y="1495" type="line"/>
+      <point x="209" y="1495" type="line"/>
+      <point x="399" y="1343" type="line"/>
+      <point x="367" y="1319" type="line"/>
+      <point x="193" y="1448" type="line"/>
+      <point x="18" y="1319" type="line"/>
+    </contour>
+    <contour>
+      <point x="-264" y="-279" type="qcurve"/>
+      <point x="-231" y="-254" type="line"/>
+      <point x="-171" y="-307"/>
+      <point x="-61" y="-307" type="qcurve" smooth="yes"/>
+      <point x="27" y="-307"/>
+      <point x="172" y="-169"/>
+      <point x="172" y="-74" type="qcurve" smooth="yes"/>
+      <point x="172" y="1063" type="line"/>
+      <point x="213" y="1063" type="line"/>
+      <point x="213" y="-74" type="line" smooth="yes"/>
+      <point x="213" y="-189"/>
+      <point x="42" y="-348"/>
+      <point x="-59" y="-348" type="qcurve" smooth="yes"/>
+      <point x="-195" y="-348"/>
+    </contour>
+  </outline>
+</glyph>

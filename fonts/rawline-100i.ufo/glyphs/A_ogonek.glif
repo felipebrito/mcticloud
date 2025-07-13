@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="2">
+  <advance width="1325"/>
+  <unicode hex="0104"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="850" y="1454" name="Anchor-9"/>
+  <anchor x="1159" y="0" name="Anchor-8"/>
+  <anchor x="551" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="999" y="-217" type="qcurve" smooth="yes"/>
+      <point x="999" y="-247"/>
+      <point x="1041" y="-286"/>
+      <point x="1090" y="-301" type="qcurve"/>
+      <point x="1063" y="-336" type="line"/>
+      <point x="965" y="-311"/>
+      <point x="965" y="-231" type="qcurve" smooth="yes"/>
+      <point x="965" y="-177"/>
+      <point x="1036" y="-72"/>
+      <point x="1114" y="0" type="qcurve"/>
+      <point x="1010" y="520" type="line"/>
+      <point x="291" y="520" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="-80" y="0" type="line"/>
+      <point x="831" y="1454" type="line"/>
+      <point x="868" y="1454" type="line"/>
+      <point x="1159" y="0" type="line"/>
+      <point x="1069" y="-76"/>
+      <point x="999" y="-172"/>
+    </contour>
+    <contour>
+      <point x="315" y="561" type="line"/>
+      <point x="1001" y="561" type="line"/>
+      <point x="838" y="1395" type="line"/>
+    </contour>
+  </outline>
+</glyph>

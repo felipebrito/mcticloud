@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udblgrave" format="2">
+  <advance width="1546"/>
+  <unicode hex="0214"/>
+  <anchor x="1438" y="1323" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="774" y="1450" name="Anchor-9"/>
+  <anchor x="905" y="2" name="Anchor-8"/>
+  <anchor x="774" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="440" y="1878" type="line"/>
+      <point x="596" y="1878" type="line"/>
+      <point x="707" y="1671" type="line"/>
+      <point x="612" y="1630" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1878" type="line"/>
+      <point x="874" y="1878" type="line"/>
+      <point x="985" y="1671" type="line"/>
+      <point x="891" y="1630" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="-10" type="qcurve" smooth="yes"/>
+      <point x="639" y="-10"/>
+      <point x="425" y="71"/>
+      <point x="286" y="207"/>
+      <point x="193" y="396"/>
+      <point x="154" y="603"/>
+      <point x="154" y="719" type="qcurve" smooth="yes"/>
+      <point x="154" y="1454" type="line"/>
+      <point x="338" y="1454" type="line"/>
+      <point x="338" y="719" type="line" smooth="yes"/>
+      <point x="338" y="629"/>
+      <point x="364" y="471"/>
+      <point x="427" y="324"/>
+      <point x="524" y="219"/>
+      <point x="676" y="156"/>
+      <point x="772" y="156" type="qcurve" smooth="yes"/>
+      <point x="843" y="156"/>
+      <point x="962" y="189"/>
+      <point x="1051" y="248"/>
+      <point x="1120" y="332"/>
+      <point x="1166" y="428"/>
+      <point x="1195" y="543"/>
+      <point x="1208" y="657"/>
+      <point x="1208" y="719" type="qcurve" smooth="yes"/>
+      <point x="1208" y="1454" type="line"/>
+      <point x="1393" y="1454" type="line"/>
+      <point x="1393" y="719" type="line" smooth="yes"/>
+      <point x="1393" y="598"/>
+      <point x="1351" y="386"/>
+      <point x="1256" y="200"/>
+      <point x="1114" y="67"/>
+      <point x="904" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

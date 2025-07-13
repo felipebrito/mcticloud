@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresiscyrillic" format="2">
+  <advance width="1386"/>
+  <unicode hex="04D2"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="694" y="1862" name="Anchor-4"/>
+  <anchor x="1366" y="0" name="Anchor-3"/>
+  <anchor x="713" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="453" y="1665" type="line"/>
+      <point x="453" y="1874" type="line"/>
+      <point x="604" y="1874" type="line"/>
+      <point x="604" y="1665" type="line"/>
+    </contour>
+    <contour>
+      <point x="784" y="1665" type="line"/>
+      <point x="784" y="1874" type="line"/>
+      <point x="936" y="1874" type="line"/>
+      <point x="936" y="1665" type="line"/>
+    </contour>
+    <contour>
+      <point x="616" y="1454" type="line"/>
+      <point x="772" y="1454" type="line"/>
+      <point x="1366" y="0" type="line"/>
+      <point x="1169" y="0" type="line"/>
+      <point x="997" y="426" type="line"/>
+      <point x="387" y="426" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="956" y="569" type="line"/>
+      <point x="694" y="1241" type="line"/>
+      <point x="424" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

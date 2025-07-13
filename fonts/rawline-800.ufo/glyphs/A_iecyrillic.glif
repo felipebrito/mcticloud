@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aiecyrillic" format="2">
+  <advance width="1982"/>
+  <unicode hex="04D4"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1266" y="1452" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="844" y="1454" type="line"/>
+      <point x="1898" y="1454" type="line"/>
+      <point x="1898" y="1159" type="line"/>
+      <point x="1266" y="1159" type="line"/>
+      <point x="1266" y="887" type="line"/>
+      <point x="1788" y="887" type="line"/>
+      <point x="1788" y="594" type="line"/>
+      <point x="1266" y="594" type="line"/>
+      <point x="1266" y="295" type="line"/>
+      <point x="1917" y="295" type="line"/>
+      <point x="1917" y="0" type="line"/>
+      <point x="932" y="0" type="line"/>
+      <point x="932" y="326" type="line"/>
+      <point x="492" y="326" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="-53" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="905" y="621" type="line"/>
+      <point x="905" y="1079" type="line"/>
+      <point x="633" y="621" type="line"/>
+    </contour>
+  </outline>
+</glyph>

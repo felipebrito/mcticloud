@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="598"/>
+  <unicode hex="0140"/>
+  <anchor x="379" y="1065" name="Anchor-11"/>
+  <anchor x="266" y="532" name="Anchor-10"/>
+  <anchor x="221" y="1454" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="348" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="168" y="1495" type="line"/>
+      <point x="272" y="1495" type="line"/>
+      <point x="272" y="211" type="line" smooth="yes"/>
+      <point x="272" y="82"/>
+      <point x="383" y="82" type="qcurve" smooth="yes"/>
+      <point x="448" y="82"/>
+      <point x="512" y="104" type="qcurve"/>
+      <point x="532" y="20" type="line"/>
+      <point x="448" y="-12"/>
+      <point x="358" y="-12" type="qcurve" smooth="yes"/>
+      <point x="272" y="-12"/>
+      <point x="168" y="92"/>
+      <point x="168" y="180" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="473" y="508" type="line"/>
+      <point x="473" y="715" type="line"/>
+      <point x="563" y="715" type="line"/>
+      <point x="563" y="508" type="line"/>
+    </contour>
+  </outline>
+</glyph>

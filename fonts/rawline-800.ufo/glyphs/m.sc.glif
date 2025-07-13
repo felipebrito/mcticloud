@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+  <advance width="1566"/>
+  <outline>
+    <contour>
+      <point x="1145" y="0" type="line"/>
+      <point x="1145" y="643" type="line"/>
+      <point x="862" y="184" type="line"/>
+      <point x="705" y="184" type="line"/>
+      <point x="422" y="643" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="1153" type="line"/>
+      <point x="446" y="1153" type="line"/>
+      <point x="784" y="584" type="line"/>
+      <point x="1120" y="1153" type="line"/>
+      <point x="1440" y="1153" type="line"/>
+      <point x="1440" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

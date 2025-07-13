@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortoverlaycmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0335"/>
+  <anchor x="-387" y="588" name="_Anchor-10"/>
+  <anchor x="-387" y="588" name="_Anchor-5"/>
+  <outline>
+    <contour>
+      <point x="-705" y="492" type="line"/>
+      <point x="-659" y="684" type="line"/>
+      <point x="-70" y="684" type="line"/>
+      <point x="-115" y="492" type="line"/>
+    </contour>
+  </outline>
+</glyph>

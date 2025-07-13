@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edblgrave" format="2">
+  <advance width="1222"/>
+  <unicode hex="0204"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="647" y="1454" name="Anchor-9"/>
+  <anchor x="1161" y="0" name="Anchor-8"/>
+  <anchor x="647" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="203" y="1874" type="line"/>
+      <point x="487" y="1874" type="line"/>
+      <point x="569" y="1583" type="line"/>
+      <point x="385" y="1518" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="1874" type="line"/>
+      <point x="877" y="1874" type="line"/>
+      <point x="958" y="1583" type="line"/>
+      <point x="774" y="1518" type="line"/>
+    </contour>
+    <contour>
+      <point x="1161" y="348" type="line"/>
+      <point x="1161" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1454" type="line"/>
+      <point x="1143" y="1454" type="line"/>
+      <point x="1143" y="1106" type="line"/>
+      <point x="524" y="1106" type="line"/>
+      <point x="524" y="901" type="line"/>
+      <point x="1053" y="901" type="line"/>
+      <point x="1053" y="578" type="line"/>
+      <point x="524" y="578" type="line"/>
+      <point x="524" y="348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

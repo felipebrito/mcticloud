@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <anchor x="-307" y="-283" name="Anchor-12"/>
+  <anchor x="-248" y="0" name="_Anchor-12"/>
+  <anchor x="-248" y="0" name="_Anchor-7"/>
+  <anchor x="-248" y="0" name="_Anchor-2"/>
+  <anchor x="-248" y="0" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-340" y="-283" type="line"/>
+      <point x="-305" y="-113" type="line"/>
+      <point x="-240" y="-113" type="line"/>
+      <point x="-274" y="-283" type="line"/>
+    </contour>
+  </outline>
+</glyph>

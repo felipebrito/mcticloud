@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shhacyrillic" format="2">
+  <advance width="1390"/>
+  <unicode hex="04BA"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="774" y="829" name="Anchor-5"/>
+  <anchor x="0" y="0" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="594" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="297" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="373" y="1454" type="line"/>
+      <point x="604" y="1454" type="line"/>
+      <point x="481" y="872" type="line"/>
+      <point x="657" y="938"/>
+      <point x="842" y="938" type="qcurve" smooth="yes"/>
+      <point x="1103" y="938"/>
+      <point x="1318" y="687"/>
+      <point x="1264" y="446" type="qcurve" smooth="yes"/>
+      <point x="1161" y="0" type="line"/>
+      <point x="934" y="0" type="line"/>
+      <point x="1040" y="469" type="line" smooth="yes"/>
+      <point x="1071" y="615"/>
+      <point x="945" y="745"/>
+      <point x="770" y="745" type="qcurve" smooth="yes"/>
+      <point x="682" y="745"/>
+      <point x="499" y="704"/>
+      <point x="438" y="670" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

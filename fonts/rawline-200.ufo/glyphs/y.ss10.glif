@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.ss10" format="2">
+  <advance width="1099"/>
+  <outline>
+    <contour>
+      <point x="1053" y="1065" type="line"/>
+      <point x="416" y="-436" type="line"/>
+      <point x="344" y="-436" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="37" y="1065" type="line"/>
+      <point x="113" y="1065" type="line"/>
+      <point x="559" y="74" type="line"/>
+      <point x="981" y="1065" type="line"/>
+    </contour>
+  </outline>
+</glyph>

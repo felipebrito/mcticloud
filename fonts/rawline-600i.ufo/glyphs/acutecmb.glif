@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0301"/>
+  <anchor x="-223" y="1069" name="_Anchor-15"/>
+  <anchor x="-78" y="1495" name="Anchor-13"/>
+  <anchor x="-223" y="1069" name="_Anchor-13"/>
+  <anchor x="-223" y="1069" name="_Anchor-9"/>
+  <anchor x="-223" y="1069" name="_Anchor-4"/>
+  <anchor x="-223" y="1069" name="_Anchor-1"/>
+  <outline>
+    <contour>
+      <point x="-125" y="1233" type="line"/>
+      <point x="-268" y="1270" type="line"/>
+      <point x="-113" y="1495" type="line"/>
+      <point x="102" y="1495" type="line"/>
+    </contour>
+  </outline>
+</glyph>

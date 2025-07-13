@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexgrave" format="2">
+  <advance width="1366"/>
+  <unicode hex="1EA6"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="684" y="2290" name="Anchor-9"/>
+  <anchor x="1370" y="0" name="Anchor-8"/>
+  <anchor x="707" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="-23" y="2134" type="line"/>
+      <point x="324" y="2134" type="line"/>
+      <point x="426" y="1843" type="line"/>
+      <point x="180" y="1778" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="1636" type="line"/>
+      <point x="524" y="1872" type="line"/>
+      <point x="803" y="1872" type="line"/>
+      <point x="1034" y="1636" type="line"/>
+      <point x="838" y="1550" type="line"/>
+      <point x="664" y="1679" type="line"/>
+      <point x="489" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="1454" type="line"/>
+      <point x="907" y="1454" type="line"/>
+      <point x="1370" y="0" type="line"/>
+      <point x="965" y="0" type="line"/>
+      <point x="877" y="285" type="line"/>
+      <point x="489" y="285" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="-4" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="813" y="551" type="line"/>
+      <point x="684" y="1063" type="line"/>
+      <point x="549" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

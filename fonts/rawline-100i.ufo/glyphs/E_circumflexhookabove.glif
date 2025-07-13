@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexhookabove" format="2">
+  <advance width="1204"/>
+  <unicode hex="1EC2"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="979" y="2306" name="Anchor-9"/>
+  <anchor x="975" y="0" name="Anchor-8"/>
+  <anchor x="489" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="915" y="2015" type="qcurve"/>
+      <point x="901" y="2042" type="line"/>
+      <point x="950" y="2075"/>
+      <point x="1016" y="2103"/>
+      <point x="1053" y="2103" type="qcurve" smooth="yes"/>
+      <point x="1104" y="2103"/>
+      <point x="1144" y="2042"/>
+      <point x="1124" y="1987" type="qcurve" smooth="yes"/>
+      <point x="1120" y="1977"/>
+      <point x="1109" y="1958"/>
+      <point x="1100" y="1944"/>
+      <point x="1080" y="1924"/>
+      <point x="1070" y="1913"/>
+      <point x="1042" y="1890"/>
+      <point x="1031" y="1881"/>
+      <point x="995" y="1854"/>
+      <point x="989" y="1849" type="qcurve"/>
+      <point x="973" y="1872" type="line"/>
+      <point x="1074" y="1950"/>
+      <point x="1087" y="1987" type="qcurve" smooth="yes"/>
+      <point x="1101" y="2019"/>
+      <point x="1076" y="2066"/>
+      <point x="1034" y="2066" type="qcurve" smooth="yes"/>
+      <point x="1008" y="2066"/>
+      <point x="961" y="2044"/>
+    </contour>
+    <contour>
+      <point x="641" y="1632" type="line"/>
+      <point x="854" y="1784" type="line"/>
+      <point x="887" y="1784" type="line"/>
+      <point x="1036" y="1632" type="line"/>
+      <point x="999" y="1608" type="line"/>
+      <point x="860" y="1737" type="line"/>
+      <point x="668" y="1608" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="1454" type="line"/>
+      <point x="1266" y="1454" type="line"/>
+      <point x="1257" y="1413" type="line"/>
+      <point x="410" y="1413" type="line"/>
+      <point x="270" y="764" type="line"/>
+      <point x="1014" y="764" type="line"/>
+      <point x="1006" y="723" type="line"/>
+      <point x="262" y="723" type="line"/>
+      <point x="117" y="41" type="line"/>
+      <point x="983" y="41" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

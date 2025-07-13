@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chekhakassiancyrillic" format="2">
+  <advance width="1415"/>
+  <unicode hex="04CB"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="707" y="637" name="Anchor-5"/>
+  <anchor x="907" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="1118" y="1454" type="line"/>
+      <point x="1454" y="1454" type="line"/>
+      <point x="1145" y="0" type="line"/>
+      <point x="870" y="0" type="line"/>
+      <point x="811" y="-279" type="line"/>
+      <point x="524" y="-279" type="line"/>
+      <point x="635" y="242" type="line"/>
+      <point x="860" y="242" type="line"/>
+      <point x="924" y="535" type="line"/>
+      <point x="790" y="481"/>
+      <point x="623" y="481" type="qcurve" smooth="yes"/>
+      <point x="361" y="481"/>
+      <point x="133" y="733"/>
+      <point x="193" y="979" type="qcurve" smooth="yes"/>
+      <point x="305" y="1454" type="line"/>
+      <point x="635" y="1454" type="line"/>
+      <point x="518" y="973" type="line" smooth="yes"/>
+      <point x="492" y="856"/>
+      <point x="596" y="752"/>
+      <point x="737" y="752" type="qcurve" smooth="yes"/>
+      <point x="869" y="752"/>
+      <point x="981" y="805" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

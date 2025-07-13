@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="2">
+  <advance width="1327"/>
+  <unicode hex="01FA"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="903" y="1692" name="Anchor-9"/>
+  <anchor x="1163" y="0" name="Anchor-8"/>
+  <anchor x="551" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="881" y="1452" type="qcurve"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1087" y="0" type="line"/>
+      <point x="991" y="502" type="line"/>
+      <point x="303" y="502" type="line"/>
+      <point x="-6" y="0" type="line"/>
+      <point x="-84" y="0" type="line"/>
+      <point x="817" y="1452" type="line"/>
+      <point x="786" y="1461"/>
+      <point x="752" y="1511"/>
+      <point x="752" y="1546" type="qcurve" smooth="yes"/>
+      <point x="752" y="1600"/>
+      <point x="825" y="1681"/>
+      <point x="879" y="1690" type="qcurve"/>
+      <point x="1032" y="1847" type="line"/>
+      <point x="1122" y="1847" type="line"/>
+      <point x="944" y="1683" type="line"/>
+      <point x="999" y="1661"/>
+      <point x="999" y="1593" type="qcurve" smooth="yes"/>
+      <point x="999" y="1541"/>
+      <point x="931" y="1463"/>
+    </contour>
+    <contour>
+      <point x="797" y="1554" type="qcurve" smooth="yes"/>
+      <point x="797" y="1524"/>
+      <point x="831" y="1487"/>
+      <point x="860" y="1487" type="qcurve" smooth="yes"/>
+      <point x="894" y="1487"/>
+      <point x="958" y="1546"/>
+      <point x="958" y="1585" type="qcurve" smooth="yes"/>
+      <point x="958" y="1616"/>
+      <point x="922" y="1653"/>
+      <point x="893" y="1653" type="qcurve" smooth="yes"/>
+      <point x="855" y="1653"/>
+      <point x="797" y="1596"/>
+    </contour>
+    <contour>
+      <point x="336" y="563" type="line"/>
+      <point x="983" y="563" type="line"/>
+      <point x="831" y="1364" type="line"/>
+    </contour>
+  </outline>
+</glyph>

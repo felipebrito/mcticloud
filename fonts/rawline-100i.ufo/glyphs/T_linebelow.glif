@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tlinebelow" format="2">
+  <advance width="1175"/>
+  <unicode hex="1E6E"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="756" y="1448" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="408" y="-195" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="729" y="1413" type="line"/>
+      <point x="201" y="1413" type="line"/>
+      <point x="209" y="1454" type="line"/>
+      <point x="1307" y="1454" type="line"/>
+      <point x="1298" y="1413" type="line"/>
+      <point x="770" y="1413" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="-195" type="line"/>
+      <point x="154" y="-154" type="line"/>
+      <point x="676" y="-154" type="line"/>
+      <point x="668" y="-195" type="line"/>
+    </contour>
+  </outline>
+</glyph>

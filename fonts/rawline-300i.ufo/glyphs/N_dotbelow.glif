@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotbelow" format="2">
+  <advance width="1517"/>
+  <unicode hex="1E46"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="963" y="1448" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="584" y="-309" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="365" y="1454" type="line"/>
+      <point x="446" y="1454" type="line"/>
+      <point x="1135" y="174" type="line"/>
+      <point x="1405" y="1452" type="line"/>
+      <point x="1509" y="1452" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="1108" y="0" type="line"/>
+      <point x="428" y="1257" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="-309" type="line"/>
+      <point x="575" y="-125" type="line"/>
+      <point x="670" y="-125" type="line"/>
+      <point x="631" y="-309" type="line"/>
+    </contour>
+  </outline>
+</glyph>

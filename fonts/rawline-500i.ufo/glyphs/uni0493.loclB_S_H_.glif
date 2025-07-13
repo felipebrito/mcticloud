@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0493.loclBSH" format="2">
+  <advance width="976"/>
+  <outline>
+    <contour>
+      <point x="928" y="909" type="line"/>
+      <point x="449" y="909" type="line"/>
+      <point x="367" y="520" type="line"/>
+      <point x="729" y="520" type="line"/>
+      <point x="705" y="401" type="line"/>
+      <point x="340" y="401" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="186" y="516" type="line"/>
+      <point x="186" y="520" type="line"/>
+      <point x="303" y="1069" type="line"/>
+      <point x="961" y="1069" type="line"/>
+    </contour>
+  </outline>
+</glyph>

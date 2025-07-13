@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nlinebelow" format="2">
+  <advance width="1501"/>
+  <unicode hex="1E48"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="936" y="1450" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="559" y="-334" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="330" y="1454" type="line"/>
+      <point x="549" y="1454" type="line"/>
+      <point x="1044" y="500" type="line"/>
+      <point x="1247" y="1452" type="line"/>
+      <point x="1528" y="1452" type="line"/>
+      <point x="1219" y="0" type="line"/>
+      <point x="991" y="0" type="line"/>
+      <point x="498" y="932" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="-334" type="line"/>
+      <point x="317" y="-164" type="line"/>
+      <point x="877" y="-164" type="line"/>
+      <point x="838" y="-334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

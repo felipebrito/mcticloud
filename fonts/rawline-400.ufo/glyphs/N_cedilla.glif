@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncedilla" format="2">
+  <advance width="1581"/>
+  <unicode hex="0145"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="797" y="1450" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="797" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="326" y="1190" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="1454" type="line"/>
+      <point x="301" y="1454" type="line"/>
+      <point x="1255" y="242" type="line"/>
+      <point x="1255" y="1452" type="line"/>
+      <point x="1399" y="1452" type="line"/>
+      <point x="1399" y="0" type="line"/>
+      <point x="1266" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="-408" type="line"/>
+      <point x="768" y="-256" type="line"/>
+      <point x="727" y="-256" type="line"/>
+      <point x="727" y="-100" type="line"/>
+      <point x="856" y="-100" type="line"/>
+      <point x="856" y="-256" type="line"/>
+      <point x="805" y="-408" type="line"/>
+    </contour>
+  </outline>
+</glyph>

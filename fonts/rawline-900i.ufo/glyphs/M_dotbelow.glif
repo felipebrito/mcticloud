@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mdotbelow" format="2">
+  <advance width="1679"/>
+  <unicode hex="1E42"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="1034" y="1454" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="633" y="-436" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="303" y="1454" type="line"/>
+      <point x="739" y="1454" type="line"/>
+      <point x="872" y="770" type="line"/>
+      <point x="1298" y="1454" type="line"/>
+      <point x="1733" y="1454" type="line"/>
+      <point x="1423" y="0" type="line"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="1186" y="766" type="line"/>
+      <point x="862" y="227" type="line"/>
+      <point x="651" y="227" type="line"/>
+      <point x="557" y="766" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="-6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="-436" type="line"/>
+      <point x="524" y="-129" type="line"/>
+      <point x="872" y="-129" type="line"/>
+      <point x="807" y="-436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

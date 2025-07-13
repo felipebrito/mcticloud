@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresiscyrillic" format="2">
+  <advance width="1241"/>
+  <unicode hex="04F0"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="635" y="1866" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="473" y="1716" type="line"/>
+      <point x="473" y="1884" type="line"/>
+      <point x="537" y="1884" type="line"/>
+      <point x="537" y="1716" type="line"/>
+    </contour>
+    <contour>
+      <point x="731" y="1716" type="line"/>
+      <point x="731" y="1884" type="line"/>
+      <point x="795" y="1884" type="line"/>
+      <point x="795" y="1716" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="-2" type="line"/>
+      <point x="365" y="63" type="line"/>
+      <point x="457" y="63" type="line" smooth="yes"/>
+      <point x="476" y="63"/>
+      <point x="502" y="74"/>
+      <point x="530" y="111"/>
+      <point x="546" y="137"/>
+      <point x="565" y="174" type="qcurve" smooth="yes"/>
+      <point x="643" y="340" type="line"/>
+      <point x="0" y="1454" type="line"/>
+      <point x="80" y="1454" type="line"/>
+      <point x="678" y="414" type="line"/>
+      <point x="1169" y="1454" type="line"/>
+      <point x="1245" y="1454" type="line"/>
+      <point x="621" y="137" type="line" smooth="yes"/>
+      <point x="584" y="60"/>
+      <point x="521" y="-2"/>
+      <point x="465" y="-2" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

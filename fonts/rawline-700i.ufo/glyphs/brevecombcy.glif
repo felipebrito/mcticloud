@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecombcy" format="2">
+  <advance width="0"/>
+  <anchor x="-371" y="1073" name="_Anchor-15"/>
+  <anchor x="-371" y="1073" name="_Anchor-13"/>
+  <anchor x="-371" y="1073" name="_Anchor-9"/>
+  <anchor x="-371" y="1073" name="_Anchor-4"/>
+  <anchor x="-371" y="1073" name="_Anchor-1"/>
+  <outline>
+    <contour>
+      <point x="-367" y="1200" type="qcurve" smooth="yes"/>
+      <point x="-514" y="1200"/>
+      <point x="-681" y="1346"/>
+      <point x="-678" y="1462" type="qcurve"/>
+      <point x="-532" y="1462" type="line"/>
+      <point x="-534" y="1400"/>
+      <point x="-451" y="1321"/>
+      <point x="-365" y="1321" type="qcurve" smooth="yes"/>
+      <point x="-212" y="1321"/>
+      <point x="-188" y="1462" type="qcurve"/>
+      <point x="-43" y="1462" type="line"/>
+      <point x="-45" y="1346"/>
+      <point x="-221" y="1200"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041B.loclBGR" format="2">
+  <advance width="1308"/>
+  <outline>
+    <contour>
+      <point x="-117" y="0" type="line"/>
+      <point x="686" y="1454" type="line"/>
+      <point x="995" y="1454" type="line"/>
+      <point x="1182" y="0" type="line"/>
+      <point x="838" y="0" type="line"/>
+      <point x="760" y="1069" type="line"/>
+      <point x="231" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

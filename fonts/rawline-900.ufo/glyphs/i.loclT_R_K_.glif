@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.loclTRK" format="2">
+  <advance width="585"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="293" y="1495" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="119" y="1188" type="line"/>
+      <point x="119" y="1495" type="line"/>
+      <point x="467" y="1495" type="line"/>
+      <point x="467" y="1188" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="1077" type="line"/>
+      <point x="487" y="1077" type="line"/>
+      <point x="487" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

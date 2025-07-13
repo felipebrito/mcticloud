@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yerudieresiscyrillic" format="2">
+  <advance width="1873"/>
+  <unicode hex="04F8"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1198" y="1858" name="Anchor-4"/>
+  <anchor x="1604" y="0" name="Anchor-3"/>
+  <anchor x="1448" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="797" y="1593" type="line"/>
+      <point x="854" y="1858" type="line"/>
+      <point x="1122" y="1858" type="line"/>
+      <point x="1067" y="1593" type="line"/>
+    </contour>
+    <contour>
+      <point x="1217" y="1593" type="line"/>
+      <point x="1274" y="1858" type="line"/>
+      <point x="1540" y="1858" type="line"/>
+      <point x="1487" y="1593" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="315" y="1454" type="line"/>
+      <point x="653" y="1454" type="line"/>
+      <point x="547" y="952" type="line"/>
+      <point x="733" y="952" type="line" smooth="yes"/>
+      <point x="975" y="952"/>
+      <point x="1210" y="698"/>
+      <point x="1178" y="479" type="qcurve" smooth="yes"/>
+      <point x="1147" y="260"/>
+      <point x="843" y="0"/>
+      <point x="610" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1577" y="1454" type="line"/>
+      <point x="1913" y="1454" type="line"/>
+      <point x="1604" y="0" type="line"/>
+      <point x="1268" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="276" type="line"/>
+      <point x="602" y="276" type="line" smooth="yes"/>
+      <point x="702" y="276"/>
+      <point x="824" y="387"/>
+      <point x="836" y="479" type="qcurve" smooth="yes"/>
+      <point x="847" y="563"/>
+      <point x="763" y="676"/>
+      <point x="664" y="676" type="qcurve" smooth="yes"/>
+      <point x="487" y="676" type="line"/>
+    </contour>
+  </outline>
+</glyph>

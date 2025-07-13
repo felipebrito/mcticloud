@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="2">
+  <advance width="1576"/>
+  <unicode hex="1E44"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="793" y="1876" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="793" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="711" y="1659" type="line"/>
+      <point x="711" y="1876" type="line"/>
+      <point x="874" y="1876" type="line"/>
+      <point x="874" y="1659" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="1114" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="1454" type="line"/>
+      <point x="330" y="1454" type="line"/>
+      <point x="1219" y="317" type="line"/>
+      <point x="1219" y="1452" type="line"/>
+      <point x="1403" y="1452" type="line"/>
+      <point x="1403" y="0" type="line"/>
+      <point x="1235" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

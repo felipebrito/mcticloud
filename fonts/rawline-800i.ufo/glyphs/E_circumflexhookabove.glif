@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexhookabove" format="2">
+  <advance width="1179"/>
+  <unicode hex="1EC2"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="967" y="2302" name="Anchor-9"/>
+  <anchor x="983" y="0" name="Anchor-8"/>
+  <anchor x="477" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1016" y="2044" type="qcurve"/>
+      <point x="956" y="2136" type="line"/>
+      <point x="1102" y="2243"/>
+      <point x="1219" y="2243" type="qcurve" smooth="yes"/>
+      <point x="1304" y="2243"/>
+      <point x="1368" y="2153"/>
+      <point x="1341" y="2081" type="qcurve" smooth="yes"/>
+      <point x="1314" y="2013"/>
+      <point x="1210" y="1912"/>
+      <point x="1110" y="1851" type="qcurve"/>
+      <point x="1063" y="1935" type="line"/>
+      <point x="1155" y="1990"/>
+      <point x="1171" y="2036" type="qcurve" smooth="yes"/>
+      <point x="1181" y="2062"/>
+      <point x="1162" y="2095"/>
+      <point x="1135" y="2095" type="qcurve" smooth="yes"/>
+      <point x="1109" y="2095"/>
+      <point x="1059" y="2073"/>
+    </contour>
+    <contour>
+      <point x="498" y="1640" type="line"/>
+      <point x="760" y="1862" type="line"/>
+      <point x="995" y="1862" type="line"/>
+      <point x="1163" y="1640" type="line"/>
+      <point x="979" y="1567" type="line"/>
+      <point x="842" y="1696" type="line"/>
+      <point x="649" y="1567" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="1454" type="line"/>
+      <point x="1274" y="1454" type="line"/>
+      <point x="1210" y="1159" type="line"/>
+      <point x="590" y="1159" type="line"/>
+      <point x="530" y="877" type="line"/>
+      <point x="1063" y="877" type="line"/>
+      <point x="1006" y="604" type="line"/>
+      <point x="473" y="604" type="line"/>
+      <point x="406" y="295" type="line"/>
+      <point x="1044" y="295" type="line"/>
+      <point x="983" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

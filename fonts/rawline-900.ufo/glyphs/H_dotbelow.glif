@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="1536"/>
+  <unicode hex="1E24"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="768" y="727" name="Anchor-10"/>
+  <anchor x="774" y="1452" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="768" y="-438" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="1411" y="1454" type="line"/>
+      <point x="1411" y="0" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="1012" y="569" type="line"/>
+      <point x="524" y="569" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1454" type="line"/>
+      <point x="524" y="1454" type="line"/>
+      <point x="524" y="918" type="line"/>
+      <point x="1012" y="918" type="line"/>
+      <point x="1012" y="1454" type="line"/>
+    </contour>
+    <contour>
+      <point x="594" y="-438" type="line"/>
+      <point x="594" y="-131" type="line"/>
+      <point x="942" y="-131" type="line"/>
+      <point x="942" y="-438" type="line"/>
+    </contour>
+  </outline>
+</glyph>

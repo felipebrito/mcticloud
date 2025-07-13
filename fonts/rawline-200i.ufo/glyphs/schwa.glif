@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="2">
+  <advance width="1130"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="420" y="-20" type="qcurve" smooth="yes"/>
+      <point x="245" y="-20"/>
+      <point x="31" y="216"/>
+      <point x="31" y="399" type="qcurve" smooth="yes"/>
+      <point x="31" y="507"/>
+      <point x="51" y="559" type="qcurve"/>
+      <point x="956" y="559" type="line"/>
+      <point x="963" y="610"/>
+      <point x="963" y="641" type="qcurve" smooth="yes"/>
+      <point x="963" y="806"/>
+      <point x="778" y="1020"/>
+      <point x="631" y="1020" type="qcurve" smooth="yes"/>
+      <point x="519" y="1020"/>
+      <point x="300" y="901"/>
+      <point x="240" y="807" type="qcurve"/>
+      <point x="182" y="823" type="line"/>
+      <point x="247" y="934"/>
+      <point x="510" y="1081"/>
+      <point x="647" y="1081" type="qcurve" smooth="yes"/>
+      <point x="761" y="1081"/>
+      <point x="939" y="960"/>
+      <point x="1034" y="755"/>
+      <point x="1034" y="629" type="qcurve" smooth="yes"/>
+      <point x="1034" y="502"/>
+      <point x="930" y="262"/>
+      <point x="761" y="87"/>
+      <point x="536" y="-20"/>
+    </contour>
+    <contour>
+      <point x="432" y="39" type="qcurve" smooth="yes"/>
+      <point x="601" y="39"/>
+      <point x="893" y="304"/>
+      <point x="944" y="502" type="qcurve"/>
+      <point x="109" y="502" type="line"/>
+      <point x="102" y="448"/>
+      <point x="102" y="412" type="qcurve" smooth="yes"/>
+      <point x="102" y="245"/>
+      <point x="282" y="39"/>
+    </contour>
+  </outline>
+</glyph>

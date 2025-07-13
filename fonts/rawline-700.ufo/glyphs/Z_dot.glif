@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdot" format="2">
+  <advance width="1284"/>
+  <unicode hex="017B"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="668" y="1874" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="643" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="545" y="1616" type="line"/>
+      <point x="545" y="1874" type="line"/>
+      <point x="793" y="1874" type="line"/>
+      <point x="793" y="1616" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="213" type="line"/>
+      <point x="872" y="1206" type="line"/>
+      <point x="84" y="1206" type="line"/>
+      <point x="84" y="1454" type="line"/>
+      <point x="1208" y="1454" type="line"/>
+      <point x="1208" y="1241" type="line"/>
+      <point x="424" y="248" type="line"/>
+      <point x="1214" y="248" type="line"/>
+      <point x="1214" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

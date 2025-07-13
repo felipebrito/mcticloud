@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfright" format="2">
+  <advance width="284"/>
+  <unicode hex="02BE"/>
+  <outline>
+    <contour>
+      <point x="233" y="1229" type="qcurve"/>
+      <point x="246" y="1280" type="line"/>
+      <point x="279" y="1280"/>
+      <point x="344" y="1362"/>
+      <point x="344" y="1419" type="qcurve" smooth="yes"/>
+      <point x="344" y="1454"/>
+      <point x="316" y="1495"/>
+      <point x="293" y="1495" type="qcurve"/>
+      <point x="305" y="1546" type="line"/>
+      <point x="341" y="1546"/>
+      <point x="385" y="1482"/>
+      <point x="385" y="1430" type="qcurve" smooth="yes"/>
+      <point x="385" y="1350"/>
+      <point x="291" y="1229"/>
+    </contour>
+  </outline>
+</glyph>

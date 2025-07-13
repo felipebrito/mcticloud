@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdotbelow" format="2">
+  <advance width="1179"/>
+  <unicode hex="1E6C"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="760" y="1448" name="Anchor-9"/>
+  <anchor x="0" y="0" name="Anchor-8"/>
+  <anchor x="393" y="-283" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="713" y="1389" type="line"/>
+      <point x="197" y="1389" type="line"/>
+      <point x="209" y="1454" type="line"/>
+      <point x="1315" y="1454" type="line"/>
+      <point x="1300" y="1389" type="line"/>
+      <point x="782" y="1389" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="-283" type="line"/>
+      <point x="395" y="-113" type="line"/>
+      <point x="461" y="-113" type="line"/>
+      <point x="426" y="-283" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="2">
+  <advance width="745"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="508" y="547" type="line"/>
+      <point x="41" y="547" type="line"/>
+      <point x="72" y="678" type="line"/>
+      <point x="743" y="678" type="line"/>
+      <point x="92" y="-168" type="line"/>
+      <point x="-61" y="-168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

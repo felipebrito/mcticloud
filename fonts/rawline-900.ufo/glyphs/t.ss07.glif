@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.ss07" format="2">
+  <advance width="882"/>
+  <outline>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="215" y="729" type="line"/>
+      <point x="51" y="729" type="line"/>
+      <point x="51" y="1077" type="line"/>
+      <point x="215" y="1077" type="line"/>
+      <point x="215" y="1415" type="line"/>
+      <point x="614" y="1415" type="line"/>
+      <point x="614" y="1077" type="line"/>
+      <point x="860" y="1077" type="line"/>
+      <point x="860" y="729" type="line"/>
+      <point x="614" y="729" type="line"/>
+      <point x="614" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

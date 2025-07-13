@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhedescendercyrillic" format="2">
+  <advance width="2113"/>
+  <unicode hex="0496"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="1174" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="1458" y="760" type="line"/>
+      <point x="1786" y="164" type="line"/>
+      <point x="1993" y="164" type="line"/>
+      <point x="1898" y="-276" type="line"/>
+      <point x="1739" y="-276" type="line"/>
+      <point x="1796" y="0" type="line"/>
+      <point x="1679" y="0" type="line"/>
+      <point x="1681" y="14" type="line"/>
+      <point x="1333" y="662" type="line"/>
+      <point x="1096" y="662" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="911" y="662" type="line"/>
+      <point x="731" y="662" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="-86" y="0" type="line"/>
+      <point x="600" y="752" type="line"/>
+      <point x="203" y="1454" type="line"/>
+      <point x="387" y="1454" type="line"/>
+      <point x="743" y="821" type="line"/>
+      <point x="946" y="821" type="line"/>
+      <point x="1079" y="1454" type="line"/>
+      <point x="1264" y="1454" type="line"/>
+      <point x="1130" y="821" type="line"/>
+      <point x="1315" y="821" type="line"/>
+      <point x="1923" y="1454" type="line"/>
+      <point x="2140" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

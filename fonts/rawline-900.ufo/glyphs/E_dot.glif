@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edot" format="2">
+  <advance width="1222"/>
+  <unicode hex="0116"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="647" y="1872" name="Anchor-9"/>
+  <anchor x="1161" y="0" name="Anchor-8"/>
+  <anchor x="647" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="473" y="1565" type="line"/>
+      <point x="473" y="1872" type="line"/>
+      <point x="821" y="1872" type="line"/>
+      <point x="821" y="1565" type="line"/>
+    </contour>
+    <contour>
+      <point x="1161" y="348" type="line"/>
+      <point x="1161" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1454" type="line"/>
+      <point x="1143" y="1454" type="line"/>
+      <point x="1143" y="1106" type="line"/>
+      <point x="524" y="1106" type="line"/>
+      <point x="524" y="901" type="line"/>
+      <point x="1053" y="901" type="line"/>
+      <point x="1053" y="578" type="line"/>
+      <point x="524" y="578" type="line"/>
+      <point x="524" y="348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

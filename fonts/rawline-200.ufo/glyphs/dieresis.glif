@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="538"/>
+  <unicode hex="00A8"/>
+  <anchor x="270" y="1475" name="Anchor-13"/>
+  <outline>
+    <contour>
+      <point x="109" y="1325" type="line"/>
+      <point x="109" y="1493" type="line"/>
+      <point x="172" y="1493" type="line"/>
+      <point x="172" y="1325" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="1325" type="line"/>
+      <point x="367" y="1493" type="line"/>
+      <point x="430" y="1493" type="line"/>
+      <point x="430" y="1325" type="line"/>
+    </contour>
+  </outline>
+</glyph>

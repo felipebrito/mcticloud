@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="489"/>
+  <unicode hex="012F"/>
+  <anchor x="0" y="0" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="0" y="0" name="Anchor-9"/>
+  <anchor x="225" y="0" name="Anchor-8"/>
+  <anchor x="115" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="317" y="1495" type="line"/>
+      <point x="543" y="1495" type="line"/>
+      <point x="492" y="1247" type="line"/>
+      <point x="266" y="1247" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="229" y="1071" type="line"/>
+      <point x="455" y="1071" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="141" y="-69"/>
+      <point x="66" y="-162"/>
+      <point x="66" y="-201" type="qcurve" smooth="yes"/>
+      <point x="66" y="-258"/>
+      <point x="158" y="-264" type="qcurve"/>
+      <point x="78" y="-397" type="line"/>
+      <point x="-4" y="-387"/>
+      <point x="-82" y="-307"/>
+      <point x="-82" y="-252" type="qcurve" smooth="yes"/>
+      <point x="-82" y="-126"/>
+      <point x="84" y="0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

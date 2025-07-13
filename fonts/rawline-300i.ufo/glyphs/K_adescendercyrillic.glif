@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kadescendercyrillic" format="2">
+  <advance width="1353"/>
+  <unicode hex="049A"/>
+  <anchor x="0" y="0" name="Anchor-6"/>
+  <anchor x="0" y="0" name="Anchor-5"/>
+  <anchor x="772" y="1454" name="Anchor-4"/>
+  <anchor x="0" y="0" name="Anchor-3"/>
+  <anchor x="0" y="0" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="651" y="754" type="line"/>
+      <point x="1034" y="94" type="line"/>
+      <point x="1219" y="94" type="line"/>
+      <point x="1139" y="-276" type="line"/>
+      <point x="1047" y="-276" type="line"/>
+      <point x="1104" y="0" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="571" y="696" type="line"/>
+      <point x="309" y="696" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="365" y="1454" type="line"/>
+      <point x="469" y="1454" type="line"/>
+      <point x="328" y="788" type="line"/>
+      <point x="565" y="788" type="line"/>
+      <point x="1206" y="1454" type="line"/>
+      <point x="1335" y="1454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

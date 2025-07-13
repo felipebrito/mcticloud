@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udblgrave" format="2">
+  <advance width="1529"/>
+  <unicode hex="0214"/>
+  <anchor x="1391" y="1311" name="Anchor-11"/>
+  <anchor x="0" y="0" name="Anchor-10"/>
+  <anchor x="764" y="1452" name="Anchor-9"/>
+  <anchor x="940" y="10" name="Anchor-8"/>
+  <anchor x="764" y="0" name="Anchor-7"/>
+  <outline>
+    <contour>
+      <point x="352" y="1874" type="line"/>
+      <point x="598" y="1874" type="line"/>
+      <point x="690" y="1608" type="line"/>
+      <point x="530" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="1874" type="line"/>
+      <point x="956" y="1874" type="line"/>
+      <point x="1047" y="1608" type="line"/>
+      <point x="889" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="-12" type="qcurve" smooth="yes"/>
+      <point x="628" y="-12"/>
+      <point x="409" y="66"/>
+      <point x="262" y="199"/>
+      <point x="163" y="385"/>
+      <point x="119" y="594"/>
+      <point x="119" y="711" type="qcurve" smooth="yes"/>
+      <point x="119" y="1454" type="line"/>
+      <point x="455" y="1454" type="line"/>
+      <point x="455" y="711" type="line" smooth="yes"/>
+      <point x="455" y="624"/>
+      <point x="489" y="477"/>
+      <point x="559" y="356"/>
+      <point x="682" y="287"/>
+      <point x="764" y="287" type="qcurve" smooth="yes"/>
+      <point x="847" y="287"/>
+      <point x="971" y="358"/>
+      <point x="1040" y="481"/>
+      <point x="1073" y="626"/>
+      <point x="1073" y="711" type="qcurve" smooth="yes"/>
+      <point x="1073" y="1454" type="line"/>
+      <point x="1409" y="1454" type="line"/>
+      <point x="1409" y="711" type="line" smooth="yes"/>
+      <point x="1409" y="557"/>
+      <point x="1332" y="299"/>
+      <point x="1179" y="100"/>
+      <point x="928" y="-12"/>
+    </contour>
+  </outline>
+</glyph>

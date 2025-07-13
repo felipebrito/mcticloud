@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncmb" format="2">
+  <advance width="0"/>
+  <unicode hex="0304"/>
+  <anchor x="-440" y="1075" name="_Anchor-15"/>
+  <anchor x="-438" y="1470" name="Anchor-13"/>
+  <anchor x="-440" y="1075" name="_Anchor-13"/>
+  <anchor x="-440" y="1075" name="_Anchor-9"/>
+  <anchor x="-440" y="1075" name="_Anchor-4"/>
+  <anchor x="-440" y="1075" name="_Anchor-1"/>
+  <outline>
+    <contour>
+      <point x="-750" y="1272" type="line"/>
+      <point x="-750" y="1470" type="line"/>
+      <point x="-127" y="1470" type="line"/>
+      <point x="-127" y="1272" type="line"/>
+    </contour>
+  </outline>
+</glyph>
