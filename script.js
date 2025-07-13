@@ -354,14 +354,15 @@ function getCollidingZone(wordEl, svg) {
 // Modifica enableSVGTextDrag para lógica Collidable
 function enableSVGTextDrag() {
   const svg = document.querySelector('#wordsCloud svg');
-  let dragging = null;
-  let offset = { x: 0, y: 0 };
-  let lastTransform = '';
-  let lastColliding = null;
+  // Multitoque: armazena estado por pointerId/touchId
+  const activeDrags = {};
 
-  function getSVGCoords(e) {
+  function getSVGCoords(e, touch) {
     let clientX, clientY;
-    if (e.touches && e.touches.length > 0) {
+    if (touch) {
+      clientX = touch.clientX;
+      clientY = touch.clientY;
+    } else if (e.touches && e.touches.length > 0) {
       clientX = e.touches[0].clientX;
       clientY = e.touches[0].clientY;
     } else {
@@ -375,82 +376,124 @@ function enableSVGTextDrag() {
     return { x: svgP.x, y: svgP.y };
   }
 
-  function onStart(e) {
+  function startDrag(id, wordEl, x, y) {
+    const lastTransform = wordEl.getAttribute('transform');
+    const match = /translate\(([-\d.]+),([-\.\d]+)\)/.exec(lastTransform);
+    let offset = { x: 0, y: 0 };
+    if (match) {
+      offset.x = x - parseFloat(match[1]);
+      offset.y = y - parseFloat(match[2]);
+    }
+    wordEl.setAttribute('opacity', 0.7);
+    svg.style.cursor = 'grabbing';
+    activeDrags[id] = {
+      wordEl,
+      offset,
+      lastTransform,
+      lastColliding: null
+    };
+  }
+
+  function moveDrag(id, x, y) {
+    const drag = activeDrags[id];
+    if (!drag) return;
+    const { wordEl, offset, lastTransform } = drag;
+    const newX = x - offset.x;
+    const newY = y - offset.y;
+    const rotate = /rotate\(([-\d.]+)\)/.exec(lastTransform);
+    const scale = /scale\(([-\d.]+)\)/.exec(lastTransform);
+    wordEl.setAttribute(
+      'transform',
+      `translate(${newX},${newY}) rotate(${rotate ? rotate[1] : 0}) scale(${scale ? scale[1] : 1})`
+    );
+    // Feedback visual Collidable
+    svg.querySelectorAll('.incdec-zone').forEach(zone => zone.classList.remove('colliding'));
+    const over = getCollidingZone(wordEl, svg);
+    if (over) {
+      over.classList.add('colliding');
+      drag.lastColliding = over;
+    } else {
+      drag.lastColliding = null;
+    }
+  }
+
+  function endDrag(id) {
+    const drag = activeDrags[id];
+    if (!drag) return;
+    const { wordEl, lastColliding } = drag;
+    svg.querySelectorAll('.incdec-zone').forEach(zone => zone.classList.remove('colliding'));
+    if (lastColliding) {
+      const type = lastColliding.getAttribute('data-type');
+      const word = wordEl.textContent;
+      if (type === '+') increaseWord(word);
+      if (type === '-' || type === '−') decreaseWord(word);
+    }
+    wordEl.setAttribute('opacity', 1);
+    svg.style.cursor = '';
+    delete activeDrags[id];
+  }
+
+  // Mouse events (single pointer)
+  svg.addEventListener('mousedown', function(e) {
     if (e.target.classList.contains('cloud-word')) {
-      dragging = e.target;
-      lastTransform = dragging.getAttribute('transform');
-      const match = /translate\(([-\d.]+),([-.\d]+)\)/.exec(lastTransform);
       const { x, y } = getSVGCoords(e);
-      if (match) {
-        offset.x = x - parseFloat(match[1]);
-        offset.y = y - parseFloat(match[2]);
-      }
-      dragging.setAttribute('opacity', 0.7);
-      svg.style.cursor = 'grabbing';
-      console.log('[DRAG] Start:', dragging.textContent);
+      startDrag('mouse', e.target, x, y);
       e.preventDefault();
     }
-  }
-
-  function onMove(e) {
-    if (dragging) {
+  });
+  svg.addEventListener('mousemove', function(e) {
+    if (activeDrags['mouse']) {
       const { x, y } = getSVGCoords(e);
-      const newX = x - offset.x;
-      const newY = y - offset.y;
-      const rotate = /rotate\(([-\d.]+)\)/.exec(lastTransform);
-      const scale = /scale\(([-\d.]+)\)/.exec(lastTransform);
-      dragging.setAttribute(
-        'transform',
-        `translate(${newX},${newY}) rotate(${rotate ? rotate[1] : 0}) scale(${scale ? scale[1] : 1})`
-      );
-      // Feedback visual Collidable
-      svg.querySelectorAll('.incdec-zone').forEach(zone => zone.classList.remove('colliding'));
-      const over = getCollidingZone(dragging, svg);
-      if (over) {
-        over.classList.add('colliding');
-        lastColliding = over;
-        console.log('[DRAG] Colidindo com zona:', over.getAttribute('data-id'), dragging.textContent);
-      } else {
-        lastColliding = null;
-      }
+      moveDrag('mouse', x, y);
       e.preventDefault();
     }
-  }
-
-  function onEnd(e) {
-    if (dragging) {
-      svg.querySelectorAll('.incdec-zone').forEach(zone => zone.classList.remove('colliding'));
-      if (lastColliding) {
-        const type = lastColliding.getAttribute('data-type');
-        const word = dragging.textContent;
-        console.log('[DROP] Drop sobre zona:', lastColliding.getAttribute('data-id'), 'Tipo:', type, 'Palavra:', word);
-        if (type === '+') {
-          console.log('[INCREMENTO]', word);
-          increaseWord(word);
-        }
-        if (type === '-' || type === '−') {
-          console.log('[DECREMENTO]', word);
-          decreaseWord(word);
-        }
-      } else {
-        console.log('[DROP] Drop fora de zona:', dragging.textContent);
-      }
-      dragging.setAttribute('opacity', 1);
-      svg.style.cursor = '';
-      dragging = null;
-      lastColliding = null;
+  });
+  svg.addEventListener('mouseup', function(e) {
+    if (activeDrags['mouse']) {
+      endDrag('mouse');
       e.preventDefault();
     }
-  }
+  });
+  svg.addEventListener('mouseleave', function(e) {
+    if (activeDrags['mouse']) {
+      endDrag('mouse');
+      e.preventDefault();
+    }
+  });
 
-  svg.addEventListener('mousedown', onStart);
-  svg.addEventListener('mousemove', onMove);
-  svg.addEventListener('mouseup', onEnd);
-  svg.addEventListener('mouseleave', onEnd);
-  svg.addEventListener('touchstart', onStart, { passive: false });
-  svg.addEventListener('touchmove', onMove, { passive: false });
-  svg.addEventListener('touchend', onEnd, { passive: false });
-  svg.addEventListener('touchcancel', onEnd, { passive: false });
+  // Touch events (multi pointer)
+  svg.addEventListener('touchstart', function(e) {
+    for (let i = 0; i < e.changedTouches.length; i++) {
+      const touch = e.changedTouches[i];
+      const target = document.elementFromPoint(touch.clientX, touch.clientY);
+      if (target && target.classList.contains('cloud-word')) {
+        const { x, y } = getSVGCoords(e, touch);
+        startDrag(touch.identifier, target, x, y);
+      }
+    }
+    e.preventDefault();
+  }, { passive: false });
+  svg.addEventListener('touchmove', function(e) {
+    for (let i = 0; i < e.changedTouches.length; i++) {
+      const touch = e.changedTouches[i];
+      moveDrag(touch.identifier, ...Object.values(getSVGCoords(e, touch)));
+    }
+    e.preventDefault();
+  }, { passive: false });
+  svg.addEventListener('touchend', function(e) {
+    for (let i = 0; i < e.changedTouches.length; i++) {
+      const touch = e.changedTouches[i];
+      endDrag(touch.identifier);
+    }
+    e.preventDefault();
+  }, { passive: false });
+  svg.addEventListener('touchcancel', function(e) {
+    for (let i = 0; i < e.changedTouches.length; i++) {
+      const touch = e.changedTouches[i];
+      endDrag(touch.identifier);
+    }
+    e.preventDefault();
+  }, { passive: false });
 }
 
 // Atualiza renderWordCloud para adicionar zonas antes das palavras
