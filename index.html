@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nuvem de Palavras</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
     <style>
         @font-face {
             font-family: 'Rawline';
@@ -102,6 +103,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.5/build/d3.layout.cloud.min.js"></script>
+    <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('service-worker.js');
+    });
+  }
+</script>
 </head>
 <body>
     <video id="bg-video" autoplay loop muted playsinline>
@@ -111,18 +119,6 @@
         <div class="words-cloud" id="wordsCloud"></div>
     </div>
     
-    <div class="demo-controls">
-        <button onclick="addWord('Inovação', 8)">+ Inovação</button>
-        <button onclick="addWord('Tecnologia', 6)">+ Tecnologia</button>
-        <button onclick="updateWordFrequency('Amor', 12)">Amor = 12</button>
-        <button onclick="removeWord('Sonho')">- Sonho</button>
-        <button onclick="renderWordCloud(INITIAL_WORDS, true)">Reset</button>
-        <button onclick="fadeAndScaleRandomWord()">Fade + Scale Aleatória</button>
-        <button onclick="pulseRandomWord()">Pulsar Aleatória</button>
-        <button onclick="increaseWord('Futuro')">Aumentar Futuro</button>
-        <button onclick="decreaseWord('Futuro')">Diminuir Futuro</button>
-        <button onclick="resetAllToOne()">Zerar todos para 1</button>
-    </div>
     
     <script src="script.js"></script>
 </body>
