@@ -312,24 +312,40 @@ function addIncrementDecrementZones(svg, addBeforeWords = false) {
 function getCollidingZone(wordEl, svg) {
   const bbox = wordEl.getBBox();
   const transform = wordEl.getAttribute('transform');
-  const match = /translate\(([-\d.]+),([-.\d]+)\)/.exec(transform);
-  let cx = bbox.x + bbox.width/2;
-  let cy = bbox.y + bbox.height/2;
+  const match = /translate\(([-\d.]+),([-\.\d]+)\)/.exec(transform);
+  let dx = 0, dy = 0;
   if (match) {
-    cx = parseFloat(match[1]);
-    cy = parseFloat(match[2]);
+    dx = parseFloat(match[1]) - (bbox.x + bbox.width/2);
+    dy = parseFloat(match[2]) - (bbox.y + bbox.height/2);
   }
+  // Ajusta o bbox para a posição real
+  const wordBox = {
+    x: bbox.x + dx,
+    y: bbox.y + dy,
+    width: bbox.width,
+    height: bbox.height
+  };
   let over = null;
   svg.querySelectorAll('.incdec-zone').forEach(zone => {
     const circle = zone.querySelector('.drop-area');
     const zx = +circle.getAttribute('cx');
     const zy = +circle.getAttribute('cy');
     const r = +circle.getAttribute('r');
-    const dist = Math.sqrt((cx-zx)**2 + (cy-zy)**2);
-    console.log(`[COLLISION DEBUG] Palavra: ${wordEl.textContent} centro=(${cx.toFixed(1)},${cy.toFixed(1)}) | Zona: ${zone.getAttribute('data-id')} centro=(${zx},${zy}) raio=${r} dist=${dist.toFixed(1)}`);
-    if (dist < r) {
-      console.log(`[COLLISION DETECTED] Palavra: ${wordEl.textContent} colidiu com zona: ${zone.getAttribute('data-id')}`);
-      over = zone;
+    // Checa se algum canto do bbox está dentro do círculo
+    const corners = [
+      [wordBox.x, wordBox.y],
+      [wordBox.x + wordBox.width, wordBox.y],
+      [wordBox.x, wordBox.y + wordBox.height],
+      [wordBox.x + wordBox.width, wordBox.y + wordBox.height],
+      // Centro também
+      [wordBox.x + wordBox.width/2, wordBox.y + wordBox.height/2]
+    ];
+    for (const [px, py] of corners) {
+      const dist = Math.sqrt((px - zx) ** 2 + (py - zy) ** 2);
+      if (dist < r) {
+        over = zone;
+        break;
+      }
     }
   });
   return over;
